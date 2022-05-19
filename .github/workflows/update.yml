@@ -1,0 +1,25 @@
+---
+name: Update version info
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron:  '0 */12 * * *' # https://crontab.guru/every-12-hours
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16
+          cache: "yarn"
+      - run: yarn install
+      - run: yarn update-versions
+      - uses: EndBug/add-and-commit@v7
+        with:
+          message: Update version info
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
