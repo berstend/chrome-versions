@@ -1,0 +1,20 @@
+{
+  "channel": "stable",
+  "chromium_main_branch_position": 982481,
+  "hashes": {
+    "angle": "a4d0bfd89577761d09ccfef8826d0eb5e2455181",
+    "chromium": "205d1cab8eff24ee2cfb98e4abbb2ae444a08ea4",
+    "dawn": "211e96c6069c66c6d503cfa2b35226c7118c7927",
+    "devtools": "b2a3923617328a970bf07eca721bb8f6ad9c4574",
+    "pdfium": "f4c62094abe20ade3a29328bc370238b7e7812b2",
+    "skia": "e3e2fcd24a848352ff4bd8df90891af8c9cdfd05",
+    "v8": "e5f13e0cd10e245d822f856d17b347c77ccc7593",
+    "webrtc": "34e12465a46da3c220eab0489881cd89a4d659d2"
+  },
+  "milestone": 101,
+  "platform": "windows",
+  "previous_version": "101.0.4951.64",
+  "time": 1652379480000,
+  "version": "101.0.4951.67",
+  "date": "2022-5-12"
+}

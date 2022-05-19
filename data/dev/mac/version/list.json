@@ -1,0 +1,252 @@
+[
+  {
+    "version": "103.0.5056.0",
+    "milestone": 103,
+    "date": "2022-5-12"
+  },
+  {
+    "version": "103.0.5042.0",
+    "milestone": 103,
+    "date": "2022-5-5"
+  },
+  {
+    "version": "103.0.5028.0",
+    "milestone": 103,
+    "date": "2022-4-28"
+  },
+  {
+    "version": "102.0.5005.22",
+    "milestone": 102,
+    "date": "2022-4-26"
+  },
+  {
+    "version": "102.0.5005.12",
+    "milestone": 102,
+    "date": "2022-4-21"
+  },
+  {
+    "version": "102.0.4997.0",
+    "milestone": 102,
+    "date": "2022-4-12"
+  },
+  {
+    "version": "102.0.4987.0",
+    "milestone": 102,
+    "date": "2022-4-7"
+  },
+  {
+    "version": "102.0.4972.0",
+    "milestone": 102,
+    "date": "2022-3-31"
+  },
+  {
+    "version": "101.0.4951.15",
+    "milestone": 101,
+    "date": "2022-3-29"
+  },
+  {
+    "version": "101.0.4951.7",
+    "milestone": 101,
+    "date": "2022-3-23"
+  },
+  {
+    "version": "101.0.4947.3",
+    "milestone": 101,
+    "date": "2022-3-18"
+  },
+  {
+    "version": "101.0.4947.0",
+    "milestone": 101,
+    "date": "2022-3-18"
+  },
+  {
+    "version": "101.0.4929.5",
+    "milestone": 101,
+    "date": "2022-3-10"
+  },
+  {
+    "version": "101.0.4919.0",
+    "milestone": 101,
+    "date": "2022-3-3"
+  },
+  {
+    "version": "100.0.4896.20",
+    "milestone": 100,
+    "date": "2022-3-2"
+  },
+  {
+    "version": "100.0.4896.12",
+    "milestone": 100,
+    "date": "2022-2-24"
+  },
+  {
+    "version": "100.0.4892.0",
+    "milestone": 100,
+    "date": "2022-2-17"
+  },
+  {
+    "version": "100.0.4878.0",
+    "milestone": 100,
+    "date": "2022-2-10"
+  },
+  {
+    "version": "100.0.4867.0",
+    "milestone": 100,
+    "date": "2022-2-4"
+  },
+  {
+    "version": "99.0.4844.15",
+    "milestone": 99,
+    "date": "2022-2-1"
+  },
+  {
+    "version": "99.0.4844.11",
+    "milestone": 99,
+    "date": "2022-1-28"
+  },
+  {
+    "version": "99.0.4840.0",
+    "milestone": 99,
+    "date": "2022-1-21"
+  },
+  {
+    "version": "99.0.4818.0",
+    "milestone": 99,
+    "date": "2022-1-11"
+  },
+  {
+    "version": "98.0.4758.9",
+    "milestone": 98,
+    "date": "2021-12-16"
+  },
+  {
+    "version": "98.0.4750.2",
+    "milestone": 98,
+    "date": "2021-12-8"
+  },
+  {
+    "version": "98.0.4750.0",
+    "milestone": 98,
+    "date": "2021-12-7"
+  },
+  {
+    "version": "98.0.4736.0",
+    "milestone": 98,
+    "date": "2021-12-1"
+  },
+  {
+    "version": "98.0.4710.4",
+    "milestone": 98,
+    "date": "2021-11-19"
+  },
+  {
+    "version": "97.0.4692.20",
+    "milestone": 97,
+    "date": "2021-11-16"
+  },
+  {
+    "version": "97.0.4692.8",
+    "milestone": 97,
+    "date": "2021-11-9"
+  },
+  {
+    "version": "97.0.4688.2",
+    "milestone": 97,
+    "date": "2021-11-2"
+  },
+  {
+    "version": "97.0.4681.0",
+    "milestone": 97,
+    "date": "2021-10-26"
+  },
+  {
+    "version": "97.0.4676.0",
+    "milestone": 97,
+    "date": "2021-10-21"
+  },
+  {
+    "version": "96.0.4664.18",
+    "milestone": 96,
+    "date": "2021-10-20"
+  },
+  {
+    "version": "96.0.4664.9",
+    "milestone": 96,
+    "date": "2021-10-14"
+  },
+  {
+    "version": "96.0.4662.6",
+    "milestone": 96,
+    "date": "2021-10-8"
+  },
+  {
+    "version": "96.0.4655.5",
+    "milestone": 96,
+    "date": "2021-9-28"
+  },
+  {
+    "version": "96.0.4651.0",
+    "milestone": 96,
+    "date": "2021-9-24"
+  },
+  {
+    "version": "95.0.4638.17",
+    "milestone": 95,
+    "date": "2021-9-21"
+  },
+  {
+    "version": "95.0.4638.10",
+    "milestone": 95,
+    "date": "2021-9-16"
+  },
+  {
+    "version": "95.0.4636.4",
+    "milestone": 95,
+    "date": "2021-9-9"
+  },
+  {
+    "version": "95.0.4628.3",
+    "milestone": 95,
+    "date": "2021-9-2"
+  },
+  {
+    "version": "95.0.4621.4",
+    "milestone": 95,
+    "date": "2021-8-26"
+  },
+  {
+    "version": "94.0.4606.20",
+    "milestone": 94,
+    "date": "2021-8-25"
+  },
+  {
+    "version": "94.0.4606.9",
+    "milestone": 94,
+    "date": "2021-8-19"
+  },
+  {
+    "version": "94.0.4603.0",
+    "milestone": 94,
+    "date": "2021-8-11"
+  },
+  {
+    "version": "94.0.4595.3",
+    "milestone": 94,
+    "date": "2021-8-3"
+  },
+  {
+    "version": "94.0.4590.0",
+    "milestone": 94,
+    "date": "2021-7-30"
+  },
+  {
+    "version": "93.0.4577.18",
+    "milestone": 93,
+    "date": "2021-7-29"
+  },
+  {
+    "version": "93.0.4577.15",
+    "milestone": 93,
+    "date": "2021-7-27"
+  }
+]
