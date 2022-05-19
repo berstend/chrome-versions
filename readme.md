@@ -15,7 +15,7 @@ Use a CDN to fetch the data as needed:
 
 ## Data
 
-The [`./data`](./data/) directory contains the JSON files
+The [`./data`](./data/) directory contains the JSON files:
 
 - The data is split by the two main release channels (`dev` and `stable`)
 - The data is split by the platform (`windows`, `mac`, `linux`, `android`)
