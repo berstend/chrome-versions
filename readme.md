@@ -29,7 +29,84 @@ The [`./data`](./data/) directory contains the JSON files:
 
 - Contains brief version info, either as `latest.json` or `list.json`
 
-### Folder structure
+## Trigger your own Github workflow on new chrome versions
+
+Unfortunately Github Actions has no broadcasting feature and this repo can only [dispatch](https://docs.github.com/en/rest/repos/repos#create-a-repository-dispatch-event) to manually defined repos.
+
+As a workaround you can add a new workflow that will poll the JSON file relevant to you recurringly (using a cron trigger), hash the data and use Github's built-in caching feature to understand if a change happened and your other workflow should be triggered.
+
+Note:
+
+- The workflow below is very quick and checking if new versions are available takes only a few seconds
+- Githubs removes cache entries [not accessed in 7 days](https://docs.github.com/en/actions/using-workflows/caching-dependencies-to-speed-up-workflows#usage-limits-and-eviction-policy), which is not a problem given this workflow runs more often
+- The first time the workflow is triggered it has not cached the hash of the chrome versions yet and will trigger the target workflow
+
+**Prerequisites:**
+
+- Your target workflow needs a `workflow_call` trigger:
+
+```yaml
+on:
+  workflow_call:
+```
+
+## Poll for changes using cron
+
+Save the below workflow as `.github/workflows/check-chrome-versions.yml` in you repo:
+
+```yaml
+name: "[cron] Check chrome versions"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # https://crontab.guru/every-1-hour
+
+jobs:
+  check-versions:
+    runs-on: ubuntu-latest
+    outputs:
+      cache-hit: ${{ steps.cache.outputs.cache-hit }}
+    env:
+      # You can use any JSON file here
+      CHROME_VERSION_URL: "https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/all/version/latest.json"
+
+    steps:
+      - name: Get hash of chrome versions
+        id: get-versions
+        run: |
+          json=$(curl -s ${{ env.CHROME_VERSION_URL }})
+          echo json: ${json}
+          hash=$(echo -n $json | md5sum)
+          echo hash: ${hash}
+          echo "::set-output name=hash::$hash"
+        shell: bash
+
+      - name: Setup cache based on hash
+        id: cache
+        uses: actions/cache@v3
+        with:
+          path: ~/cache-chrome-version # no-op
+          key: chrome-${{ steps.get-versions.outputs.hash }}
+
+      - name: "Cache hit: Exit"
+        if: steps.cache.outputs.cache-hit == 'true'
+        run: echo "cache hit, no new chrome versions"
+
+  trigger-workflow:
+    if: needs.check-versions.outputs.cache-hit != 'true'
+    needs: check-versions
+    uses: ./.github/workflows/build.yml # Change this to your target workflow
+```
+
+Change `./.github/workflows/build.yml` to whatever workflow you want to trigger on new chrome versions.
+
+**Troubleshooting:**
+
+- Permission errors: Workflows inherit their permissions from the parent, if you set special permissions in your target workflow you need to define them in the above one as well
+- _"(...) doing so would exceed the limit on called workflow depth of 2"_ error: Github unfortunately [doesn't allow](https://docs.github.com/en/actions/using-workflows/reusing-workflows#limitations) reusable workflows to call reusable workflows
+
+## Folder structure
 
 ```bash
 data
