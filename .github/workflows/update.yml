@@ -3,8 +3,8 @@ name: Update version info
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron:  '0 */12 * * *' # https://crontab.guru/every-12-hours
+  schedule:
+    - cron: "0 */3 * * *" # https://crontab.guru/every-3-hours
 
 jobs:
   update:
