@@ -1,15 +1,21 @@
-# chrome-versions
+# chrome-versions [![Update version info](https://github.com/berstend/chrome-versions/actions/workflows/update.yml/badge.svg?branch=master)](https://github.com/berstend/chrome-versions/actions/workflows/update.yml) ![GitHub last commit](https://img.shields.io/github/last-commit/berstend/chrome-versions)
 
 Self updating repository to store chrome release and version info as JSON.
 
+| Windows                                                                                                                                                                                   | macOS                                                                                                                                                                                 | Linux                                                                                                                                                                                   | Android                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Latest Version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/windows/version/latest.json) | ![Latest Version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/mac/version/latest.json) | ![Latest Version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/linux/version/latest.json) | ![Latest Version](https://img.shields.io/badge/dynamic/json?label=version&query=version&url=https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/android/version/latest.json) |
+
 ## TL;DR
 
-Use a CDN to fetch the data as needed:
+Use a CDN to fetch the data as needed, examples:
 
 - Latest chrome stable version info for all platforms:
   - https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/all/version/latest.json
 - Last 15 chrome stable versions for all platforms:
   - https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/all/version/list.json
+- Latest chrome stable version for windows:
+  - https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/windows/version/latest.json
 - Extended release info for the last chrome stable windows release:
   - https://cdn.jsdelivr.net/gh/berstend/chrome-versions/data/stable/windows/info/latest.json
 
@@ -21,11 +27,11 @@ The [`./data`](./data/) directory contains the JSON files:
 - The data is split by the platform (`windows`, `mac`, `linux`, `android`)
 - In addition combined version info for all platforms is provided under `all`
 
-### Info
+**Info**
 
 - Contains the full release info, either as `latest.json` or `list.json`
 
-### Version
+**Version**
 
 - Contains brief version info, either as `latest.json` or `list.json`
 
