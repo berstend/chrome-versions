@@ -56,7 +56,7 @@ on:
   workflow_call:
 ```
 
-## Poll for changes using cron
+### Poll for changes using cron
 
 Save the below workflow as `.github/workflows/check-chrome-versions.yml` in you repo:
 
