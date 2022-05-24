@@ -1,6 +1,16 @@
 {
   "windows": [
     {
+      "version": "102.0.5005.62",
+      "milestone": 102,
+      "date": "2022-5-24"
+    },
+    {
+      "version": "102.0.5005.61",
+      "milestone": 102,
+      "date": "2022-5-24"
+    },
+    {
       "version": "101.0.4951.67",
       "milestone": 101,
       "date": "2022-5-12"
@@ -64,19 +74,14 @@
       "version": "98.0.4758.102",
       "milestone": 98,
       "date": "2022-2-14"
-    },
-    {
-      "version": "98.0.4758.82",
-      "milestone": 98,
-      "date": "2022-2-1"
-    },
-    {
-      "version": "98.0.4758.81",
-      "milestone": 98,
-      "date": "2022-2-1"
     }
   ],
   "mac": [
+    {
+      "version": "102.0.5005.61",
+      "milestone": 102,
+      "date": "2022-5-24"
+    },
     {
       "version": "101.0.4951.64",
       "milestone": 101,
@@ -146,14 +151,14 @@
       "version": "98.0.4758.80",
       "milestone": 98,
       "date": "2022-2-1"
-    },
-    {
-      "version": "97.0.4692.99",
-      "milestone": 97,
-      "date": "2022-1-19"
     }
   ],
   "linux": [
+    {
+      "version": "102.0.5005.61",
+      "milestone": 102,
+      "date": "2022-5-24"
+    },
     {
       "version": "101.0.4951.64",
       "milestone": 101,
@@ -223,14 +228,19 @@
       "version": "97.0.4692.99",
       "milestone": 97,
       "date": "2022-1-19"
-    },
-    {
-      "version": "97.0.4692.71",
-      "milestone": 97,
-      "date": "2022-1-4"
     }
   ],
   "android": [
+    {
+      "version": "102.0.5005.59",
+      "milestone": 102,
+      "date": "2022-5-24"
+    },
+    {
+      "version": "102.0.5005.58",
+      "milestone": 102,
+      "date": "2022-5-24"
+    },
     {
       "version": "101.0.4951.61",
       "milestone": 101,
@@ -295,16 +305,6 @@
       "version": "97.0.4692.98",
       "milestone": 97,
       "date": "2022-1-19"
-    },
-    {
-      "version": "97.0.4692.87",
-      "milestone": 97,
-      "date": "2022-1-11"
-    },
-    {
-      "version": "97.0.4692.70",
-      "milestone": 97,
-      "date": "2022-1-4"
     }
   ]
 }
