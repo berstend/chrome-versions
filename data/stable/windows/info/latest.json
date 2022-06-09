@@ -2,19 +2,19 @@
   "channel": "stable",
   "chromium_main_branch_position": 992738,
   "hashes": {
-    "angle": "6661eb4900dae62cbe9af5023f9c1e7105798b50",
-    "chromium": "bede68c8d7c28dfd9aea7d050b4ad747a765cad9",
+    "angle": "9768648fffc94a434a7d400a2542ce3706224417",
+    "chromium": "77818e5f1df0d268d87f9645d91a751c86b8d97c",
     "dawn": "fa8cc68ff7c055512e83a538e5517400f5f053bc",
     "devtools": "46a28a3c5dadb2a79680c35a61000e908aee74dc",
     "pdfium": "62ad9af8a9f9494645b659674b64bb51775cde05",
     "skia": "3338e90707323d2cd3a150276acb9f39933deee2",
-    "v8": "87c27db79e6a35a6bdedcbfe732f978812bf6ced",
+    "v8": "8a561c06ef2cf18d1beb6f6aac51ff96b1bfaf7b",
     "webrtc": "6ff73180ad01aca444c9856f91148eb2b948ce63"
   },
   "milestone": 102,
   "platform": "windows",
-  "previous_version": "102.0.5005.62",
-  "time": 1654026240000,
-  "version": "102.0.5005.63",
-  "date": "2022-5-31"
+  "previous_version": "102.0.5005.63",
+  "time": 1654800120000,
+  "version": "102.0.5005.115",
+  "date": "2022-6-9"
 }
