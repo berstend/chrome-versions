@@ -1,6 +1,11 @@
 {
   "windows": [
     {
+      "version": "103.0.5060.53",
+      "milestone": 103,
+      "date": "2022-6-21"
+    },
+    {
       "version": "102.0.5005.115",
       "milestone": 102,
       "date": "2022-6-9"
@@ -69,14 +74,14 @@
       "version": "99.0.4844.82",
       "milestone": 99,
       "date": "2022-3-20"
-    },
-    {
-      "version": "99.0.4844.74",
-      "milestone": 99,
-      "date": "2022-3-15"
     }
   ],
   "mac": [
+    {
+      "version": "103.0.5060.53",
+      "milestone": 103,
+      "date": "2022-6-21"
+    },
     {
       "version": "102.0.5005.115",
       "milestone": 102,
@@ -146,14 +151,14 @@
       "version": "98.0.4758.109",
       "milestone": 98,
       "date": "2022-2-22"
-    },
-    {
-      "version": "98.0.4758.102",
-      "milestone": 98,
-      "date": "2022-2-14"
     }
   ],
   "linux": [
+    {
+      "version": "103.0.5060.53",
+      "milestone": 103,
+      "date": "2022-6-21"
+    },
     {
       "version": "102.0.5005.115",
       "milestone": 102,
@@ -223,14 +228,14 @@
       "version": "98.0.4758.102",
       "milestone": 98,
       "date": "2022-2-14"
-    },
-    {
-      "version": "98.0.4758.80",
-      "milestone": 98,
-      "date": "2022-2-1"
     }
   ],
   "android": [
+    {
+      "version": "103.0.5060.53",
+      "milestone": 103,
+      "date": "2022-6-21"
+    },
     {
       "version": "102.0.5005.125",
       "milestone": 102,
@@ -300,11 +305,6 @@
       "version": "99.0.4844.73",
       "milestone": 99,
       "date": "2022-3-15"
-    },
-    {
-      "version": "99.0.4844.58",
-      "milestone": 99,
-      "date": "2022-3-3"
     }
   ]
 }
