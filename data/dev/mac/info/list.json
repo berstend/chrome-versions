@@ -1,6 +1,26 @@
 [
   {
     "channel": "dev",
+    "chromium_main_branch_position": 1016865,
+    "hashes": {
+      "angle": "dfbdc35133b373e25b1ff4553dc378de67dee863",
+      "chromium": "c03c9c307db19c3f06378b6472d169a54923916a",
+      "dawn": "1ed376be34219ad52892fcb3b83787cfc026e9b4",
+      "devtools": "8ed88e13195d39ac1519e5b4f76428fb5dbebc7f",
+      "pdfium": "ce72527c01dc086acf407b82d0a69874ea426711",
+      "skia": "57a5326e20fa7c77c25ff205f583b85e4dc2f366",
+      "v8": "3066269b3d79d683c789adb038847e6dfa35869e",
+      "webrtc": "179f40e81a461a9978701f6d830f8fdad92d5e2e"
+    },
+    "milestone": 105,
+    "platform": "mac",
+    "previous_version": "104.0.5112.20",
+    "time": 1656106560000,
+    "version": "105.0.5137.4",
+    "date": "2022-6-24"
+  },
+  {
+    "channel": "dev",
     "chromium_main_branch_position": 1012729,
     "hashes": {
       "angle": "4e37ec8c021e5739e720d2847ac814f8eef296a6",
@@ -978,25 +998,5 @@
     "time": 1630614900000,
     "version": "95.0.4628.3",
     "date": "2021-9-2"
-  },
-  {
-    "channel": "dev",
-    "chromium_main_branch_position": 914909,
-    "hashes": {
-      "angle": "0e06d2f3ff4a6ffd845c65973085f84814f3c204",
-      "chromium": "c90fe55e684d920aa318ae7efcb5a14e7713de26",
-      "dawn": "20ffe9712f580f1885c5cfc2edba81f18b39baf4",
-      "devtools": "43c4778c0352f6ce52d54119eee59cee6f67327d",
-      "pdfium": "875651c42410a9e5b956f84336f5b67996769950",
-      "skia": "d77dda5bd55b3e2b5fb21de30e50050469764c7e",
-      "v8": "64fe65fd55085c77c5e81245bc38384b853fbe69",
-      "webrtc": "f3db00f8320fc71366e81c6cedc2636287c3e3d6"
-    },
-    "milestone": 95,
-    "platform": "mac",
-    "previous_version": "94.0.4606.20",
-    "time": 1630005000000,
-    "version": "95.0.4621.4",
-    "date": "2021-8-26"
   }
 ]
