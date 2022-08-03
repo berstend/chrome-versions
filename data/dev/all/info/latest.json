@@ -4,7 +4,7 @@
     "chromium_main_branch_position": 1027018,
     "hashes": {
       "angle": "d0fe12db855d057ecca7fc1f0fa9e37f1d9a40f2",
-      "chromium": "c58a9905deb7ba8da072ff3362f22ca81eadee44",
+      "chromium": "8e0cbddc8eeae678fd23a763c1d724f55cf0ed9c",
       "dawn": "1e98a9ba4a64301e0ab932e22ce989688f6cdf6c",
       "devtools": "b1ac4239dc5fffa56170e7367a03f35d2eaa223c",
       "pdfium": "d14da8e682e244127db32490365d1c094243e5f3",
@@ -14,17 +14,17 @@
     },
     "milestone": 105,
     "platform": "windows",
-    "previous_version": "105.0.5191.0",
-    "time": 1659027240000,
-    "version": "105.0.5195.10",
-    "date": "2022-7-28"
+    "previous_version": "105.0.5195.10",
+    "time": 1659543180000,
+    "version": "105.0.5195.19",
+    "date": "2022-8-3"
   },
   "mac": {
     "channel": "dev",
     "chromium_main_branch_position": 1027018,
     "hashes": {
       "angle": "d0fe12db855d057ecca7fc1f0fa9e37f1d9a40f2",
-      "chromium": "c58a9905deb7ba8da072ff3362f22ca81eadee44",
+      "chromium": "8e0cbddc8eeae678fd23a763c1d724f55cf0ed9c",
       "dawn": "1e98a9ba4a64301e0ab932e22ce989688f6cdf6c",
       "devtools": "b1ac4239dc5fffa56170e7367a03f35d2eaa223c",
       "pdfium": "d14da8e682e244127db32490365d1c094243e5f3",
@@ -34,17 +34,17 @@
     },
     "milestone": 105,
     "platform": "mac",
-    "previous_version": "105.0.5191.0",
-    "time": 1659027240000,
-    "version": "105.0.5195.10",
-    "date": "2022-7-28"
+    "previous_version": "105.0.5195.10",
+    "time": 1659543180000,
+    "version": "105.0.5195.19",
+    "date": "2022-8-3"
   },
   "linux": {
     "channel": "dev",
     "chromium_main_branch_position": 1027018,
     "hashes": {
       "angle": "d0fe12db855d057ecca7fc1f0fa9e37f1d9a40f2",
-      "chromium": "c58a9905deb7ba8da072ff3362f22ca81eadee44",
+      "chromium": "8e0cbddc8eeae678fd23a763c1d724f55cf0ed9c",
       "dawn": "1e98a9ba4a64301e0ab932e22ce989688f6cdf6c",
       "devtools": "b1ac4239dc5fffa56170e7367a03f35d2eaa223c",
       "pdfium": "d14da8e682e244127db32490365d1c094243e5f3",
@@ -54,10 +54,10 @@
     },
     "milestone": 105,
     "platform": "linux",
-    "previous_version": "105.0.5191.2",
-    "time": 1659027240000,
-    "version": "105.0.5195.10",
-    "date": "2022-7-28"
+    "previous_version": "105.0.5195.10",
+    "time": 1659543180000,
+    "version": "105.0.5195.19",
+    "date": "2022-8-3"
   },
   "android": {
     "channel": "dev",
