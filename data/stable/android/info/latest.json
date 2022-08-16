@@ -2,19 +2,19 @@
   "channel": "stable",
   "chromium_main_branch_position": 1012729,
   "hashes": {
-    "angle": "2693b03eba82a424a19febaacaab4115a45b7682",
-    "chromium": "60cf1ed40af207447039972854ac02e050193d04",
-    "dawn": "a92c57a8f65927f32b7c64b14461265a26e862c0",
+    "angle": "4a65a669e11bd7bfa9d77cbf7001836379ec29b5",
+    "chromium": "5bd8ee46fe32a0e173d3885516f8f41ed562abc3",
+    "dawn": "2d334ed4f01b00211acd0360a5f9dc91d83354cb",
     "devtools": "ed8fe6a3c528058bcc8e95b9071be6d6cb1b45f2",
     "pdfium": "c7c276ce1192f043affb2098ac7ce44f7fd7f084",
     "skia": "5a4dbb2e97302f7e574f0ba962ac4d8b3a62a36e",
-    "v8": "3d67ad243ce92b9fb162cc85da1dc1a0ebe4c78b",
+    "v8": "50d767cfc5219af89a124ee7e683412f46f566aa",
     "webrtc": "06aea31d10f860ae4236e3422252557762d39188"
   },
   "milestone": 104,
   "platform": "android",
-  "previous_version": "103.0.5060.129",
-  "time": 1659444970960,
-  "version": "104.0.5112.69",
-  "date": "2022-8-2"
+  "previous_version": "104.0.5112.69",
+  "time": 1660648980000,
+  "version": "104.0.5112.97",
+  "date": "2022-8-16"
 }
