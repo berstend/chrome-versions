@@ -3011,6 +3011,26 @@
       "chromium_main_branch_position": 1036826,
       "hashes": {
         "angle": "428b6788d71120c833f029aa4e24903fa811f77b",
+        "chromium": "4469ca58b61736c4c512f17f4c9402656c3c06ec",
+        "dawn": "1ac1514ad2c97b0e3356f9b17e01460bd4fac7d6",
+        "devtools": "c005e44cd0f38aea3bac8e0c723c6d89d144d7c3",
+        "pdfium": "ab0a1fadcbc15874b1a164a842aa8a18ebf301f6",
+        "skia": "192120757a64a52b2ef103105fd5e7a1b374b7ca",
+        "v8": "8e71629a82f0610d38f8e2091dd4a16c665dce61",
+        "webrtc": "7aaeb5a270ba23f5844f7301a50aaff9b6ca6126"
+      },
+      "milestone": 106,
+      "platform": "android",
+      "previous_version": "106.0.5249.9",
+      "time": 1661894940000,
+      "version": "106.0.5249.19",
+      "date": "2022-8-30"
+    },
+    {
+      "channel": "dev",
+      "chromium_main_branch_position": 1036826,
+      "hashes": {
+        "angle": "428b6788d71120c833f029aa4e24903fa811f77b",
         "chromium": "b4fbf8ea84303a143b4a265142e70d6f099e7aeb",
         "dawn": "1ac1514ad2c97b0e3356f9b17e01460bd4fac7d6",
         "devtools": "c005e44cd0f38aea3bac8e0c723c6d89d144d7c3",
@@ -3985,26 +4005,6 @@
       "time": 1637360700000,
       "version": "98.0.4710.6",
       "date": "2021-11-19"
-    },
-    {
-      "channel": "dev",
-      "chromium_main_branch_position": 942385,
-      "hashes": {
-        "angle": "9e4ade6898fbb19dc8fb2a089450304ee0d14b25",
-        "chromium": "fbb8d50750a2a67d2a7295eb3e284bdbc3736c0b",
-        "dawn": "970739e4e35a9e54bc872d9a487b17aa735751f4",
-        "devtools": "492e3aa917fa44fc5af1428e221c7d02c5b580e8",
-        "pdfium": "8d64cb50a5bb4486695a010338cf950eb6a85364",
-        "skia": "f4db9165ebe4c81130957cb73ff2e3925c4134b1",
-        "v8": "95d3d4db9271707b31ccb1b57743505b332f5262",
-        "webrtc": "c09b14c3c57d521416a57dde57bf969cbf41ac17"
-      },
-      "milestone": 98,
-      "platform": "android",
-      "previous_version": "97.0.4692.20",
-      "time": 1637278620000,
-      "version": "98.0.4710.2",
-      "date": "2021-11-18"
     }
   ]
 }
