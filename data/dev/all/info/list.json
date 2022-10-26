@@ -3011,6 +3011,26 @@
       "chromium_main_branch_position": 1058933,
       "hashes": {
         "angle": "96bbc80b87000005dbec2a8034e37deec91538a3",
+        "chromium": "41b732682c82bfc065a4fc9974773034efea888f",
+        "dawn": "c84d06e8603ce9c4b5c8d86e42e9ec0acf3bd689",
+        "devtools": "33bb29b551b54b0ac67025e8b3e0ce69352c9504",
+        "pdfium": "9d2c662f557544e5edb74a60b52fb297f4c5dfee",
+        "skia": "7c55be996a81ff9c5c66984c9d4ef85d12a44c8c",
+        "v8": "1c8490f6b2d2ac2fef2ce2806f321d2695f31a02",
+        "webrtc": "ffceb9b4ad5a111cd2410107d929ccf4adff8f7c"
+      },
+      "milestone": 108,
+      "platform": "android",
+      "previous_version": "108.0.5359.10",
+      "time": 1666734480000,
+      "version": "108.0.5359.18",
+      "date": "2022-10-25"
+    },
+    {
+      "channel": "dev",
+      "chromium_main_branch_position": 1058933,
+      "hashes": {
+        "angle": "96bbc80b87000005dbec2a8034e37deec91538a3",
         "chromium": "c430182d8dafe2265f533a11679f88786a2c879d",
         "dawn": "c84d06e8603ce9c4b5c8d86e42e9ec0acf3bd689",
         "devtools": "33bb29b551b54b0ac67025e8b3e0ce69352c9504",
@@ -3984,26 +4004,6 @@
       "previous_version": "99.0.4839.4",
       "time": 1643321880000,
       "version": "99.0.4844.9",
-      "date": "2022-1-27"
-    },
-    {
-      "channel": "dev",
-      "chromium_main_branch_position": 960704,
-      "hashes": {
-        "angle": "31942507f384ba51cc76a02c9d01c86af9b22013",
-        "chromium": "62126e18c302c4abeae3b5698588720170c5dbe8",
-        "dawn": "d0530a6e035d6bbba42313b9e075672c08a89c32",
-        "devtools": "68613ab02f6d556a2c5ac68ea08f466a534c6bd9",
-        "pdfium": "341c836c0ba66610a12d09bc31387be00d8f0b23",
-        "skia": "8276fa8ef102847b505a0af13fc9322a17f8929d",
-        "v8": "4e822ed7404569f3e018b87ad6150cd82f8e760c",
-        "webrtc": "3376f974af79d952daa25faca530ab20a2632080"
-      },
-      "milestone": 99,
-      "platform": "android",
-      "previous_version": "99.0.4839.3",
-      "time": 1643321880000,
-      "version": "99.0.4839.4",
       "date": "2022-1-27"
     }
   ]
