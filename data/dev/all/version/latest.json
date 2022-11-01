@@ -1,8 +1,8 @@
 {
   "windows": {
-    "version": "108.0.5359.19",
-    "milestone": 108,
-    "date": "2022-10-26"
+    "version": "109.0.5384.2",
+    "milestone": 109,
+    "date": "2022-11-1"
   },
   "mac": {
     "version": "109.0.5384.0",
