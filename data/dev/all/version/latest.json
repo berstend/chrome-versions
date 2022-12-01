@@ -5,14 +5,14 @@
     "date": "2022-11-30"
   },
   "mac": {
-    "version": "109.0.5414.25",
-    "milestone": 109,
-    "date": "2022-11-30"
+    "version": "110.0.5449.0",
+    "milestone": 110,
+    "date": "2022-12-1"
   },
   "linux": {
-    "version": "109.0.5414.25",
-    "milestone": 109,
-    "date": "2022-11-30"
+    "version": "110.0.5449.0",
+    "milestone": 110,
+    "date": "2022-12-1"
   },
   "android": {
     "version": "109.0.5414.23",
