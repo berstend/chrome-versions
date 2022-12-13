@@ -3010,6 +3010,26 @@
       "chromium_main_branch_position": 1058933,
       "hashes": {
         "angle": "ceec659ac60b0c8ee9d9c602ca1a878ec1d3a88f",
+        "chromium": "5e933908adfe43f27e517bbce4e1380e10acb60b",
+        "dawn": "b8f6a47669f5e32ad7e65eac4ff9d26d2c43927f",
+        "devtools": "33bb29b551b54b0ac67025e8b3e0ce69352c9504",
+        "pdfium": "9d2c662f557544e5edb74a60b52fb297f4c5dfee",
+        "skia": "7c55be996a81ff9c5c66984c9d4ef85d12a44c8c",
+        "v8": "4bbab243cdfdb81f228e9ab627ffdc7f7126b8d1",
+        "webrtc": "93081d594f7efff72958a79251f53731b99e902b"
+      },
+      "milestone": 108,
+      "platform": "android",
+      "previous_version": "108.0.5359.79",
+      "time": 1670946075942,
+      "version": "108.0.5359.128",
+      "date": "2022-12-13"
+    },
+    {
+      "channel": "stable",
+      "chromium_main_branch_position": 1058933,
+      "hashes": {
+        "angle": "ceec659ac60b0c8ee9d9c602ca1a878ec1d3a88f",
         "chromium": "fd01a93ef2d7deeac81281b88d87acea3c11d0c9",
         "dawn": "c84d06e8603ce9c4b5c8d86e42e9ec0acf3bd689",
         "devtools": "33bb29b551b54b0ac67025e8b3e0ce69352c9504",
@@ -3984,26 +4004,6 @@
       "time": 1633635660000,
       "version": "94.0.4606.80",
       "date": "2021-10-7"
-    },
-    {
-      "channel": "stable",
-      "chromium_main_branch_position": 911515,
-      "hashes": {
-        "angle": "e8cb0e7aa32873e25fac80d471df46d568646817",
-        "chromium": "4dac2548d4812df2aa4a90ac1fc8912363f4d59c",
-        "dawn": "036268e02e7faae8ab4a9de7f53406f78acb52cb",
-        "devtools": "6c6bf9ccf4c8795773da63937301ae51f5967921",
-        "pdfium": "9778968ebcf520e51b4807f2f93d946e30538ed1",
-        "skia": "a71591a1efcc901dbebdb196d7a3c6e09364cf1f",
-        "v8": "e18ed176514f9bf26797d57a35c26674a21b5f37",
-        "webrtc": "b83487f08ff836437715b488f73416215e5570dd"
-      },
-      "milestone": 94,
-      "platform": "android",
-      "previous_version": "94.0.4606.61",
-      "time": 1633031580000,
-      "version": "94.0.4606.71",
-      "date": "2021-9-30"
     }
   ]
 }
