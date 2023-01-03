@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: 16
           cache: "yarn"
       - run: yarn install
       - run: yarn update-versions
-      - uses: EndBug/add-and-commit@v7
+      - uses: EndBug/add-and-commit@v9
         with:
           message: Update version info
           committer_name: GitHub Actions
