@@ -1,6 +1,26 @@
 [
   {
     "channel": "dev",
+    "chromium_main_branch_position": 1091039,
+    "hashes": {
+      "angle": "2b1bc4fdbd05ea2683e2c004d94a6e4991305b8d",
+      "chromium": "3a2fcb0381806de06e0d127862ee4af660b87519",
+      "dawn": "df2c1621bff159016a083a8f3ba70ca2ce4349b5",
+      "devtools": "5ba1a2db0ba6724ecc58f95c70d2f285f49f91d4",
+      "pdfium": "b8f41c99763347cd7d094f5006ba588fb185a924",
+      "skia": "2c5c6ca7b17d9fc3e0081965ac283d0cb0d6558a",
+      "v8": "64e96cc93d8c7af3384f84037e8eff8c34a36335",
+      "webrtc": "bfc26c65e6079b7783b7d54fcd2c8bce0a3bc882"
+    },
+    "milestone": 111,
+    "platform": "windows",
+    "previous_version": "110.0.5481.30",
+    "time": 1673566380000,
+    "version": "111.0.5532.2",
+    "date": "2023-1-12"
+  },
+  {
+    "channel": "dev",
     "chromium_main_branch_position": 1084008,
     "hashes": {
       "angle": "ef6f212741f86526b45525500eab8edabfacaba8",
@@ -977,26 +997,6 @@
     "previous_version": "101.0.4947.0",
     "time": 1647635460000,
     "version": "101.0.4947.3",
-    "date": "2022-3-18"
-  },
-  {
-    "channel": "dev",
-    "chromium_main_branch_position": 981442,
-    "hashes": {
-      "angle": "3739a195c2dfae8406719c81eb5faf9924cc1f15",
-      "chromium": "c6d561b771d54fe892b32ade29c19796f64ffd4a",
-      "dawn": "df7414586f66e26d24c5e1582ca4b70204a06e5b",
-      "devtools": "4d17e989f0f5bad0f9d4d5badff16fd6da09ae33",
-      "pdfium": "fabcfa2baa4d7a63caafcd415e96b8bfa4ada31e",
-      "skia": "ffb49630eb1abd3957b1e1d53bb817d6bfa42725",
-      "v8": "7413cf947e712636bdf8adb97df56cfca23c2c95",
-      "webrtc": "8f56242e984022821f1b630c94e107d0006d4b64"
-    },
-    "milestone": 101,
-    "platform": "windows",
-    "previous_version": "101.0.4929.5",
-    "time": 1647635460000,
-    "version": "101.0.4947.0",
     "date": "2022-3-18"
   }
 ]
