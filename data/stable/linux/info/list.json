@@ -4,6 +4,26 @@
     "chromium_main_branch_position": 1084008,
     "hashes": {
       "angle": "ef6f212741f86526b45525500eab8edabfacaba8",
+      "chromium": "ea5bfe12a496c36e4c19b59fb965ba5e2ca337f0",
+      "dawn": "38496b683c4b73b623dae3b6ebba45879c331ada",
+      "devtools": "96897dda85a6c504c5c3b01b8d1c8ea0baca62e2",
+      "pdfium": "b15f1b6966496c72391a0e2a1e20b4e6c28536fc",
+      "skia": "aab9fb4100da797d25fe340e9a2fcb2ae30fc2e1",
+      "v8": "7999223ca1644726339aae43d9435c721c8a4bb0",
+      "webrtc": "1e675c7835f188cd8be228f5da6d3467690355b8"
+    },
+    "milestone": 110,
+    "platform": "linux",
+    "previous_version": "110.0.5481.77",
+    "time": 1676320261264,
+    "version": "110.0.5481.96",
+    "date": "2023-2-13"
+  },
+  {
+    "channel": "stable",
+    "chromium_main_branch_position": 1084008,
+    "hashes": {
+      "angle": "ef6f212741f86526b45525500eab8edabfacaba8",
       "chromium": "f98d92d5f3e9ad876e45b6868534db46cbf32c32",
       "dawn": "38496b683c4b73b623dae3b6ebba45879c331ada",
       "devtools": "96897dda85a6c504c5c3b01b8d1c8ea0baca62e2",
@@ -978,25 +998,5 @@
     "time": 1632245280000,
     "version": "94.0.4606.54",
     "date": "2021-9-21"
-  },
-  {
-    "channel": "stable",
-    "chromium_main_branch_position": 902210,
-    "hashes": {
-      "angle": "0775a1fb4254a36e461a26b6872a1019c31e1e70",
-      "chromium": "f2d6656bdf16198c04b70efd1952dace3ed7dd8f",
-      "dawn": "cf773dfc448e1ad44d7a6825f2bf21226e619563",
-      "devtools": "b28e1ff9bc42baca9cc156c2c768f6d271481822",
-      "pdfium": "60a7195a9b42b5f27b13fff2a9173ad797ce958c",
-      "skia": "e261fe99fa41d3a829f540cb3823d581deeb29a8",
-      "v8": "0add9c1de1459707b116e145b04326a96d025a79",
-      "webrtc": "25e3fd53a79bfdb2bd647ee3a199eb9c3a71d271"
-    },
-    "milestone": 93,
-    "platform": "linux",
-    "previous_version": "93.0.4577.63",
-    "time": 1631564340000,
-    "version": "93.0.4577.82",
-    "date": "2021-9-13"
   }
 ]
