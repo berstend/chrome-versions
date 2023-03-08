@@ -3011,6 +3011,26 @@
       "chromium_main_branch_position": 1109224,
       "hashes": {
         "angle": "8105a8010ad91a332ebce30e38a6caa37e96e811",
+        "chromium": "8a9f4638cb749592990024f8fe9d1aec33add747",
+        "dawn": "39b7330b5b509e7c4111faf17f6f489d719bc319",
+        "devtools": "2436ae2c5444ba8008a9f092301209a87aef0483",
+        "pdfium": "5be0603fadd355da9d4bf17f76ba48ffdffedb06",
+        "skia": "f5fefe5245098be43cb608eace5e14d67cdc09e6",
+        "v8": "c3e99752ac5ae0b5d404f57796cdb640f7d127b2",
+        "webrtc": "cdfeb4f7922f05007d88c8263842998ec79b6dd6"
+      },
+      "milestone": 112,
+      "platform": "android",
+      "previous_version": "112.0.5615.10",
+      "time": 1678227142291,
+      "version": "112.0.5615.18",
+      "date": "2023-3-7"
+    },
+    {
+      "channel": "dev",
+      "chromium_main_branch_position": 1109224,
+      "hashes": {
+        "angle": "8105a8010ad91a332ebce30e38a6caa37e96e811",
         "chromium": "00ded2adf5f668834acbd5631afb46526de376d4",
         "dawn": "39b7330b5b509e7c4111faf17f6f489d719bc319",
         "devtools": "2436ae2c5444ba8008a9f092301209a87aef0483",
@@ -3985,26 +4005,6 @@
       "time": 1652395620000,
       "version": "103.0.5055.0",
       "date": "2022-5-12"
-    },
-    {
-      "channel": "dev",
-      "chromium_main_branch_position": 998204,
-      "hashes": {
-        "angle": "e55990e35ddcbd405db9ddc5dfc77828e6090ad2",
-        "chromium": "b729186cefb596e450f936f09635991671fe4dd5",
-        "dawn": "41e4d9a34c1d9dcb2eef3ff39ff9c1f987bfa02a",
-        "devtools": "e848061d022dd23648a0abca59d9768fb6e0f73b",
-        "pdfium": "17be9fefade8fa1030a6c1e02c1a6db05f0b1de9",
-        "skia": "c58e0ba36c7847cd39787b333df347179cb4baa1",
-        "v8": "21fc9cd3b07f8d59dc554681ac1d51a6c6033ba0",
-        "webrtc": "07999d2b6b1fa5e425e9d3fc72cec4ff9cc39050"
-      },
-      "milestone": 103,
-      "platform": "android",
-      "previous_version": "103.0.5028.0",
-      "time": 1651616640000,
-      "version": "103.0.5038.0",
-      "date": "2022-5-3"
     }
   ]
 }
