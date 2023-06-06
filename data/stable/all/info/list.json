@@ -1006,6 +1006,26 @@
       "chromium_main_branch_position": 1135570,
       "hashes": {
         "angle": "f3e3810b917c12e2e69ae23b0e36c48b41f88e61",
+        "chromium": "e623ad2bb6b56534657dc961055aaac2287ea442",
+        "dawn": "86628784160b0644a7ffebd1c647e18e2314485c",
+        "devtools": "3f60fe50e4790d1154659b9628e811bbcdf1aa4f",
+        "pdfium": "9505810f66cc3dde86c30d072de53ca6fc8a45de",
+        "skia": "93e7d305c32c17b3fa3e531dd967bc588948a080",
+        "v8": "56e5481171da3eacd3cb83db2be3b2d2b96b4abb",
+        "webrtc": "ecab2a49da48f0279a3b6422dab602614630005e"
+      },
+      "milestone": 114,
+      "platform": "mac",
+      "previous_version": "114.0.5735.90",
+      "time": 1686000000000,
+      "version": "114.0.5735.106",
+      "date": "2023-6-5"
+    },
+    {
+      "channel": "stable",
+      "chromium_main_branch_position": 1135570,
+      "hashes": {
+        "angle": "f3e3810b917c12e2e69ae23b0e36c48b41f88e61",
         "chromium": "bb5258320e0aca193f0f9c0dcf2987b2a3c8f551",
         "dawn": "86628784160b0644a7ffebd1c647e18e2314485c",
         "devtools": "3f60fe50e4790d1154659b9628e811bbcdf1aa4f",
@@ -1980,26 +2000,6 @@
       "time": 1647790620833,
       "version": "99.0.4844.83",
       "date": "2022-3-20"
-    },
-    {
-      "channel": "stable",
-      "chromium_main_branch_position": 961656,
-      "hashes": {
-        "angle": "29b222a3c07c541cafa459ae6886134da3493a4b",
-        "chromium": "799634187a46681113011bd6e14c5feb2db145e6",
-        "dawn": "f52a227a248eb927a9dea5a3cfb32c72f6f5d53c",
-        "devtools": "1655fc6e5b1b7db015e2b0fc9dfe75f6b0034388",
-        "pdfium": "e08973f07eac840c09b8bfa7a75d2df56d015d88",
-        "skia": "f85ab491eb97b54d0bfeac19fed27feb499b8912",
-        "v8": "83773ccb4d11d762624981b30dfd3d54d7351778",
-        "webrtc": "4d7f57adca5e9c9657e0adfdc3c95b6534b85cc2"
-      },
-      "milestone": 99,
-      "platform": "mac",
-      "previous_version": "99.0.4844.51",
-      "time": 1647370680000,
-      "version": "99.0.4844.74",
-      "date": "2022-3-15"
     }
   ],
   "linux": [

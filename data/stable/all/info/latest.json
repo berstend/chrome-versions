@@ -24,20 +24,20 @@
     "chromium_main_branch_position": 1135570,
     "hashes": {
       "angle": "f3e3810b917c12e2e69ae23b0e36c48b41f88e61",
-      "chromium": "bb5258320e0aca193f0f9c0dcf2987b2a3c8f551",
+      "chromium": "e623ad2bb6b56534657dc961055aaac2287ea442",
       "dawn": "86628784160b0644a7ffebd1c647e18e2314485c",
       "devtools": "3f60fe50e4790d1154659b9628e811bbcdf1aa4f",
       "pdfium": "9505810f66cc3dde86c30d072de53ca6fc8a45de",
       "skia": "93e7d305c32c17b3fa3e531dd967bc588948a080",
-      "v8": "68903e142b1a554df821a78a420b7777aadb9cc9",
+      "v8": "56e5481171da3eacd3cb83db2be3b2d2b96b4abb",
       "webrtc": "ecab2a49da48f0279a3b6422dab602614630005e"
     },
     "milestone": 114,
     "platform": "mac",
-    "previous_version": "114.0.5735.45",
-    "time": 1685477100000,
-    "version": "114.0.5735.90",
-    "date": "2023-5-30"
+    "previous_version": "114.0.5735.90",
+    "time": 1686000000000,
+    "version": "114.0.5735.106",
+    "date": "2023-6-5"
   },
   "linux": {
     "channel": "stable",
