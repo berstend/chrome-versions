@@ -5,14 +5,14 @@
     "date": "2023-7-19"
   },
   "mac": {
-    "version": "116.0.5845.42",
-    "milestone": 116,
-    "date": "2023-7-19"
+    "version": "117.0.5897.3",
+    "milestone": 117,
+    "date": "2023-7-21"
   },
   "linux": {
-    "version": "116.0.5845.42",
-    "milestone": 116,
-    "date": "2023-7-19"
+    "version": "117.0.5897.3",
+    "milestone": 117,
+    "date": "2023-7-21"
   },
   "android": {
     "version": "116.0.5845.30",
