@@ -10,9 +10,9 @@
     "date": "2023-8-14"
   },
   "linux": {
-    "version": "115.0.5790.170",
-    "milestone": 115,
-    "date": "2023-8-2"
+    "version": "116.0.5845.96",
+    "milestone": 116,
+    "date": "2023-8-15"
   },
   "android": {
     "version": "116.0.5845.92",
