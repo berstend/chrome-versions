@@ -2,19 +2,19 @@
   "channel": "stable",
   "chromium_main_branch_position": 1160321,
   "hashes": {
-    "angle": "939f6880118192066597f8bdc433255341df56ae",
-    "chromium": "cdc67689f7a8408a0e2f2282942064fe54568a6a",
+    "angle": "b48983ab8c74d2fcd9ef17c80727affb9e690c53",
+    "chromium": "5197c9addf7bf4d2ee5cef0a59d704aec72c602a",
     "dawn": "5318d39e47819212769b974ed3a0b42e373df59e",
-    "devtools": "b08875a73231d5ef270313ce894eaa831cc6fd08",
+    "devtools": "f7c236f0555abbe40cebfdc2d4148ea8dfdf0f10",
     "pdfium": "6c2c8ce87dfbf69b533e97f78807dff28c95f014",
-    "skia": "1c42b12f8699826793da1b7382e1d7a2278af966",
-    "v8": "97c6f935aa8ec6b786f7ff7726f86785316f30d0",
+    "skia": "ffbc376172738894f15bd22909a285a23436fdf4",
+    "v8": "5edaa0f442c68ddf05663a6de235a51ed041f41d",
     "webrtc": "44bc8e96ed88005fec89a1cc479e291fea30d1b3"
   },
   "milestone": 116,
   "platform": "windows",
-  "previous_version": "116.0.5845.97",
-  "time": 1692741421179,
-  "version": "116.0.5845.98",
-  "date": "2023-8-22"
+  "previous_version": "116.0.5845.140",
+  "time": 1693330080000,
+  "version": "116.0.5845.141",
+  "date": "2023-8-29"
 }
