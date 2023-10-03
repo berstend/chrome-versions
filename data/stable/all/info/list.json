@@ -1007,6 +1007,26 @@
       "chromium_main_branch_position": 1181205,
       "hashes": {
         "angle": "be854a0aa2c5ca2a3c00d1ba1df4101dfb434556",
+        "chromium": "e3344ddefa12e60436fa28c81cf207c1afb4d0a9",
+        "dawn": "0bb4f2362aab025f0221188d70f8b352da8a83c2",
+        "devtools": "785d618a9556d5b6e8b3423721a93391afb8e519",
+        "pdfium": "df6fed9f3cbc13b656562b4775ea330c91732c71",
+        "skia": "beb4d7d77fba1e7c44b82653090e176bac161d63",
+        "v8": "1add2a3f621ccbce65daacc6067fe3b440884557",
+        "webrtc": "70aa7e99e4af06e9a2273793179dfcfddad11898"
+      },
+      "milestone": 117,
+      "platform": "mac",
+      "previous_version": "117.0.5938.132",
+      "time": 1696356458854,
+      "version": "117.0.5938.149",
+      "date": "2023-10-3"
+    },
+    {
+      "channel": "stable",
+      "chromium_main_branch_position": 1181205,
+      "hashes": {
+        "angle": "be854a0aa2c5ca2a3c00d1ba1df4101dfb434556",
         "chromium": "fa569fb226df361d676b60404623b17b16dddc8a",
         "dawn": "0bb4f2362aab025f0221188d70f8b352da8a83c2",
         "devtools": "785d618a9556d5b6e8b3423721a93391afb8e519",
@@ -1981,26 +2001,6 @@
       "time": 1664300400000,
       "version": "106.0.5249.61",
       "date": "2022-9-27"
-    },
-    {
-      "channel": "stable",
-      "chromium_main_branch_position": 1027018,
-      "hashes": {
-        "angle": "2f0d8ab049b10ee41f9b90cea8da8e80db076e38",
-        "chromium": "649f8c907bdce99e571f38a6fa15fa3032b543d8",
-        "dawn": "773610c8aecd28ef60f64654dea530e49406e138",
-        "devtools": "b1ac4239dc5fffa56170e7367a03f35d2eaa223c",
-        "pdfium": "4da7fd57f192eedf8c89f7e1dd2c8fbed71358c8",
-        "skia": "305b7c02b90b248f000b2e48e8621368a22cf887",
-        "v8": "3ae6859800b0b41e70896d8b7e4886689933a7c4",
-        "webrtc": "42be4ae879ed6870dfc5ca554d11062b536da717"
-      },
-      "milestone": 105,
-      "platform": "mac",
-      "previous_version": "105.0.5195.102",
-      "time": 1663087920000,
-      "version": "105.0.5195.125",
-      "date": "2022-9-13"
     }
   ],
   "linux": [
