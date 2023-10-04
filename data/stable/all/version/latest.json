@@ -5,18 +5,18 @@
     "date": "2023-10-3"
   },
   "mac": {
-    "version": "117.0.5938.149",
-    "milestone": 117,
-    "date": "2023-10-3"
+    "version": "118.0.5993.54",
+    "milestone": 118,
+    "date": "2023-10-4"
   },
   "linux": {
-    "version": "117.0.5938.132",
+    "version": "117.0.5938.149",
     "milestone": 117,
-    "date": "2023-9-27"
+    "date": "2023-10-4"
   },
   "android": {
-    "version": "117.0.5938.153",
-    "milestone": 117,
-    "date": "2023-10-3"
+    "version": "118.0.5993.48",
+    "milestone": 118,
+    "date": "2023-10-4"
   }
 }
