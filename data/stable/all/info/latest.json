@@ -64,19 +64,19 @@
     "chromium_main_branch_position": 1181205,
     "hashes": {
       "angle": "be854a0aa2c5ca2a3c00d1ba1df4101dfb434556",
-      "chromium": "ca3642f3af5066fdd5719489f7dadfa8eff1cd8c",
-      "dawn": "fca0526469a1bd3e42cff1a2a048816126aa9aa5",
+      "chromium": "588c66dfb93af8aa3bb790479b69bb79e1bf194a",
+      "dawn": "0bb4f2362aab025f0221188d70f8b352da8a83c2",
       "devtools": "785d618a9556d5b6e8b3423721a93391afb8e519",
       "pdfium": "df6fed9f3cbc13b656562b4775ea330c91732c71",
       "skia": "beb4d7d77fba1e7c44b82653090e176bac161d63",
-      "v8": "71aa74fabc861a8169d43ec19c47cdc71c7edec9",
+      "v8": "1add2a3f621ccbce65daacc6067fe3b440884557",
       "webrtc": "70aa7e99e4af06e9a2273793179dfcfddad11898"
     },
     "milestone": 117,
     "platform": "android",
-    "previous_version": "117.0.5938.60",
-    "time": 1695859806171,
-    "version": "117.0.5938.61",
-    "date": "2023-9-28"
+    "previous_version": "117.0.5938.141",
+    "time": 1696367260956,
+    "version": "117.0.5938.153",
+    "date": "2023-10-3"
   }
 }
