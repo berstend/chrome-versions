@@ -4,79 +4,79 @@
     "chromium_main_branch_position": 1204232,
     "hashes": {
       "angle": "2eea91f8f0b2979ba810aedd9c5a43e65c58c1d9",
-      "chromium": "5296a210d9486be5c34e860bc30f47fd86343a8f",
+      "chromium": "f6fcaed63cb61e2eeff44a3268ac6fbaaa2a8f88",
       "dawn": "6285a6e3f0eb21a7c6f17a1f6f3777d1703e6e36",
       "devtools": "91b90b0f12222df90a8eef829c4c8dd4a8bfb73e",
       "pdfium": "2e2cfb0399db35fbe2e3ef0be62559fe01837ec5",
-      "skia": "96270e0be6b3acdbd59e5931a122be16958c9c1e",
-      "v8": "ef8134c6150d582e0bd228a278d9e7fe1ff0bf25",
+      "skia": "89907a0ce7c0c883898b8c88b55b7b7f733f7058",
+      "v8": "1d8f52fa183e0534a931880bdf77710a235bb0e6",
       "webrtc": "52bc9f7c1205f4b731ea0289b059f7d240c1e228"
     },
     "milestone": 119,
     "platform": "windows",
-    "previous_version": "119.0.6045.159",
-    "time": 1700167779826,
-    "version": "119.0.6045.160",
-    "date": "2023-11-16"
+    "previous_version": "119.0.6045.161",
+    "time": 1701199744302,
+    "version": "119.0.6045.199",
+    "date": "2023-11-28"
   },
   "mac": {
     "channel": "stable",
     "chromium_main_branch_position": 1204232,
     "hashes": {
       "angle": "2eea91f8f0b2979ba810aedd9c5a43e65c58c1d9",
-      "chromium": "eaa767197fa7dd412133d1b84f7eb60da43409c9",
+      "chromium": "f6fcaed63cb61e2eeff44a3268ac6fbaaa2a8f88",
       "dawn": "6285a6e3f0eb21a7c6f17a1f6f3777d1703e6e36",
       "devtools": "91b90b0f12222df90a8eef829c4c8dd4a8bfb73e",
       "pdfium": "2e2cfb0399db35fbe2e3ef0be62559fe01837ec5",
-      "skia": "96270e0be6b3acdbd59e5931a122be16958c9c1e",
-      "v8": "ef8134c6150d582e0bd228a278d9e7fe1ff0bf25",
+      "skia": "89907a0ce7c0c883898b8c88b55b7b7f733f7058",
+      "v8": "1d8f52fa183e0534a931880bdf77710a235bb0e6",
       "webrtc": "52bc9f7c1205f4b731ea0289b059f7d240c1e228"
     },
     "milestone": 119,
     "platform": "mac",
-    "previous_version": "119.0.6045.123",
-    "time": 1699989603491,
-    "version": "119.0.6045.159",
-    "date": "2023-11-14"
+    "previous_version": "119.0.6045.159",
+    "time": 1701199744302,
+    "version": "119.0.6045.199",
+    "date": "2023-11-28"
   },
   "linux": {
     "channel": "stable",
     "chromium_main_branch_position": 1204232,
     "hashes": {
       "angle": "2eea91f8f0b2979ba810aedd9c5a43e65c58c1d9",
-      "chromium": "eaa767197fa7dd412133d1b84f7eb60da43409c9",
+      "chromium": "f6fcaed63cb61e2eeff44a3268ac6fbaaa2a8f88",
       "dawn": "6285a6e3f0eb21a7c6f17a1f6f3777d1703e6e36",
       "devtools": "91b90b0f12222df90a8eef829c4c8dd4a8bfb73e",
       "pdfium": "2e2cfb0399db35fbe2e3ef0be62559fe01837ec5",
-      "skia": "96270e0be6b3acdbd59e5931a122be16958c9c1e",
-      "v8": "ef8134c6150d582e0bd228a278d9e7fe1ff0bf25",
+      "skia": "89907a0ce7c0c883898b8c88b55b7b7f733f7058",
+      "v8": "1d8f52fa183e0534a931880bdf77710a235bb0e6",
       "webrtc": "52bc9f7c1205f4b731ea0289b059f7d240c1e228"
     },
     "milestone": 119,
     "platform": "linux",
-    "previous_version": "119.0.6045.123",
-    "time": 1699989645027,
-    "version": "119.0.6045.159",
-    "date": "2023-11-14"
+    "previous_version": "119.0.6045.159",
+    "time": 1701199744852,
+    "version": "119.0.6045.199",
+    "date": "2023-11-28"
   },
   "android": {
     "channel": "stable",
     "chromium_main_branch_position": 1204232,
     "hashes": {
       "angle": "2eea91f8f0b2979ba810aedd9c5a43e65c58c1d9",
-      "chromium": "e87d8ea31f029f62cebd71af35a9059e00c18d1e",
+      "chromium": "baf84c2d246a45577b7ddd2b8d8d2e2cf36e12e2",
       "dawn": "6285a6e3f0eb21a7c6f17a1f6f3777d1703e6e36",
       "devtools": "91b90b0f12222df90a8eef829c4c8dd4a8bfb73e",
       "pdfium": "2e2cfb0399db35fbe2e3ef0be62559fe01837ec5",
-      "skia": "96270e0be6b3acdbd59e5931a122be16958c9c1e",
-      "v8": "ef8134c6150d582e0bd228a278d9e7fe1ff0bf25",
+      "skia": "89907a0ce7c0c883898b8c88b55b7b7f733f7058",
+      "v8": "1d8f52fa183e0534a931880bdf77710a235bb0e6",
       "webrtc": "52bc9f7c1205f4b731ea0289b059f7d240c1e228"
     },
     "milestone": 119,
     "platform": "android",
-    "previous_version": "119.0.6045.135",
-    "time": 1699984013860,
-    "version": "119.0.6045.163",
-    "date": "2023-11-14"
+    "previous_version": "119.0.6045.164",
+    "time": 1701199882863,
+    "version": "119.0.6045.193",
+    "date": "2023-11-28"
   }
 }
