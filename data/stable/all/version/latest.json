@@ -10,13 +10,13 @@
     "date": "2023-12-4"
   },
   "linux": {
-    "version": "119.0.6045.199",
-    "milestone": 119,
-    "date": "2023-11-28"
+    "version": "120.0.6099.62",
+    "milestone": 120,
+    "date": "2023-12-5"
   },
   "android": {
-    "version": "120.0.6099.43",
-    "milestone": 120,
-    "date": "2023-11-30"
+    "version": "119.0.6045.194",
+    "milestone": 119,
+    "date": "2023-12-5"
   }
 }
