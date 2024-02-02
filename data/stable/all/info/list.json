@@ -5,6 +5,26 @@
       "chromium_main_branch_position": 1233107,
       "hashes": {
         "angle": "1cedd773c14a6afc7223fb12426f9b575c8ae4c8",
+        "chromium": "39edf9010df81f5af6e3a7137817588023a2d3c4",
+        "dawn": "12b2251aaf0a2ee9cb02df8f9b156bd1f025cfe5",
+        "devtools": "dcf32e98a4de4e6faa5dba45b71a1863bf903a23",
+        "pdfium": "7388bd02f160a35d06b58e57f6374780fe4bafd3",
+        "skia": "a5f25943a09f03496ff86380c340968c4a008e31",
+        "v8": "1fbb9881419d2c7c278a6013df6c8ca16344dbd9",
+        "webrtc": "79ba9b0b2b28e49ecc32992ff9163917299beedc"
+      },
+      "milestone": 121,
+      "platform": "windows",
+      "previous_version": "121.0.6167.139",
+      "time": 1706823989658,
+      "version": "121.0.6167.140",
+      "date": "2024-2-1"
+    },
+    {
+      "channel": "stable",
+      "chromium_main_branch_position": 1233107,
+      "hashes": {
+        "angle": "1cedd773c14a6afc7223fb12426f9b575c8ae4c8",
         "chromium": "8c8d08c028b0cd45213e1952a680df4608668e4e",
         "dawn": "12b2251aaf0a2ee9cb02df8f9b156bd1f025cfe5",
         "devtools": "dcf32e98a4de4e6faa5dba45b71a1863bf903a23",
@@ -978,26 +998,6 @@
       "previous_version": "118.0.5993.54",
       "time": 1696971336314,
       "version": "118.0.5993.70",
-      "date": "2023-10-10"
-    },
-    {
-      "channel": "stable",
-      "chromium_main_branch_position": 1181205,
-      "hashes": {
-        "angle": "be854a0aa2c5ca2a3c00d1ba1df4101dfb434556",
-        "chromium": "70538c5d6db172353198a735ee6ac73b5ad057f9",
-        "dawn": "0bb4f2362aab025f0221188d70f8b352da8a83c2",
-        "devtools": "785d618a9556d5b6e8b3423721a93391afb8e519",
-        "pdfium": "df6fed9f3cbc13b656562b4775ea330c91732c71",
-        "skia": "beb4d7d77fba1e7c44b82653090e176bac161d63",
-        "v8": "1add2a3f621ccbce65daacc6067fe3b440884557",
-        "webrtc": "70aa7e99e4af06e9a2273793179dfcfddad11898"
-      },
-      "milestone": 117,
-      "platform": "windows",
-      "previous_version": "117.0.5938.151",
-      "time": 1696971336314,
-      "version": "117.0.5938.152",
       "date": "2023-10-10"
     }
   ],
