@@ -4,7 +4,7 @@
     "chromium_main_branch_position": 1250580,
     "hashes": {
       "angle": "f9bad5e27d61e2ab6a7504b1793be5aa14eb1414",
-      "chromium": "81bc525b6a36d91ed7fe98a4b53c6f53c79adbb2",
+      "chromium": "a259797e599493b751941c75294f8bfde6cb19d9",
       "dawn": "8917c648bdd68007c96b8ca9995533cc3ee995c2",
       "devtools": "e4d13b251b100b3fdd0c846b94453c0597bc251f",
       "pdfium": "4c4f9ab25dab142d7888f3258ab54df24b97b44f",
@@ -14,10 +14,10 @@
     },
     "milestone": 122,
     "platform": "windows",
-    "previous_version": "122.0.6261.57",
-    "time": 1708635248729,
-    "version": "122.0.6261.69",
-    "date": "2024-2-22"
+    "previous_version": "122.0.6261.69",
+    "time": 1708981860000,
+    "version": "122.0.6261.70",
+    "date": "2024-2-26"
   },
   "mac": {
     "channel": "stable",
