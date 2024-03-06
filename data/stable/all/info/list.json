@@ -2009,6 +2009,26 @@
       "chromium_main_branch_position": 1250580,
       "hashes": {
         "angle": "f9bad5e27d61e2ab6a7504b1793be5aa14eb1414",
+        "chromium": "9d4c1072da62b411b351a38b9ed6214ab236aa7b",
+        "dawn": "8917c648bdd68007c96b8ca9995533cc3ee995c2",
+        "devtools": "3fa1fc736f46022f45c7ba7d817d1df1519c55d7",
+        "pdfium": "4c4f9ab25dab142d7888f3258ab54df24b97b44f",
+        "skia": "c6835e2d5ff641dad9347ce4c2ff79dbc29cf9aa",
+        "v8": "ddbcde1a3adf125ed72dbfcb4f90040d0c7e5dae",
+        "webrtc": "6b419a0536b1a0ccfff3682f997c6f19bcbd9bd8"
+      },
+      "milestone": 122,
+      "platform": "linux",
+      "previous_version": "122.0.6261.94",
+      "time": 1709672913315,
+      "version": "122.0.6261.111",
+      "date": "2024-3-5"
+    },
+    {
+      "channel": "stable",
+      "chromium_main_branch_position": 1250580,
+      "hashes": {
+        "angle": "f9bad5e27d61e2ab6a7504b1793be5aa14eb1414",
         "chromium": "880dbf29479c6152d5e4f08dfd3a96b30f919e56",
         "dawn": "8917c648bdd68007c96b8ca9995533cc3ee995c2",
         "devtools": "3fa1fc736f46022f45c7ba7d817d1df1519c55d7",
@@ -2983,26 +3003,6 @@
       "time": 1677090420000,
       "version": "110.0.5481.177",
       "date": "2023-2-22"
-    },
-    {
-      "channel": "stable",
-      "chromium_main_branch_position": 1084008,
-      "hashes": {
-        "angle": "ef6f212741f86526b45525500eab8edabfacaba8",
-        "chromium": "34ef9c25d070fcb172851c4583edb0e1a7c3db05",
-        "dawn": "38496b683c4b73b623dae3b6ebba45879c331ada",
-        "devtools": "96897dda85a6c504c5c3b01b8d1c8ea0baca62e2",
-        "pdfium": "b15f1b6966496c72391a0e2a1e20b4e6c28536fc",
-        "skia": "aab9fb4100da797d25fe340e9a2fcb2ae30fc2e1",
-        "v8": "7999223ca1644726339aae43d9435c721c8a4bb0",
-        "webrtc": "1e675c7835f188cd8be228f5da6d3467690355b8"
-      },
-      "milestone": 110,
-      "platform": "linux",
-      "previous_version": "110.0.5481.96",
-      "time": 1676395920000,
-      "version": "110.0.5481.100",
-      "date": "2023-2-14"
     }
   ],
   "android": [
