@@ -5,6 +5,26 @@
       "chromium_main_branch_position": 1250580,
       "hashes": {
         "angle": "f9bad5e27d61e2ab6a7504b1793be5aa14eb1414",
+        "chromium": "d5c7410e6b1f1ab357c2c6b1da3070e26889645e",
+        "dawn": "8917c648bdd68007c96b8ca9995533cc3ee995c2",
+        "devtools": "3fa1fc736f46022f45c7ba7d817d1df1519c55d7",
+        "pdfium": "4c4f9ab25dab142d7888f3258ab54df24b97b44f",
+        "skia": "c6835e2d5ff641dad9347ce4c2ff79dbc29cf9aa",
+        "v8": "ddbcde1a3adf125ed72dbfcb4f90040d0c7e5dae",
+        "webrtc": "6b419a0536b1a0ccfff3682f997c6f19bcbd9bd8"
+      },
+      "milestone": 122,
+      "platform": "windows",
+      "previous_version": "122.0.6261.111",
+      "time": 1709839843676,
+      "version": "122.0.6261.112",
+      "date": "2024-3-7"
+    },
+    {
+      "channel": "stable",
+      "chromium_main_branch_position": 1250580,
+      "hashes": {
+        "angle": "f9bad5e27d61e2ab6a7504b1793be5aa14eb1414",
         "chromium": "9ba478abd382e49bde7fa7fb34b1e8da258fb2d4",
         "dawn": "8917c648bdd68007c96b8ca9995533cc3ee995c2",
         "devtools": "3fa1fc736f46022f45c7ba7d817d1df1519c55d7",
@@ -979,26 +999,6 @@
       "time": 1701199744302,
       "version": "119.0.6045.161",
       "date": "2023-11-28"
-    },
-    {
-      "channel": "stable",
-      "chromium_main_branch_position": 1204232,
-      "hashes": {
-        "angle": "2eea91f8f0b2979ba810aedd9c5a43e65c58c1d9",
-        "chromium": "5296a210d9486be5c34e860bc30f47fd86343a8f",
-        "dawn": "6285a6e3f0eb21a7c6f17a1f6f3777d1703e6e36",
-        "devtools": "91b90b0f12222df90a8eef829c4c8dd4a8bfb73e",
-        "pdfium": "2e2cfb0399db35fbe2e3ef0be62559fe01837ec5",
-        "skia": "96270e0be6b3acdbd59e5931a122be16958c9c1e",
-        "v8": "ef8134c6150d582e0bd228a278d9e7fe1ff0bf25",
-        "webrtc": "52bc9f7c1205f4b731ea0289b059f7d240c1e228"
-      },
-      "milestone": 119,
-      "platform": "windows",
-      "previous_version": "119.0.6045.159",
-      "time": 1700167779826,
-      "version": "119.0.6045.160",
-      "date": "2023-11-16"
     }
   ],
   "mac": [
