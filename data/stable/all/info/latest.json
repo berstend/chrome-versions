@@ -3,9 +3,9 @@
     "channel": "stable",
     "chromium_main_branch_position": 1262506,
     "hashes": {
-      "angle": "bbf1e1ea6bcf61e5e8e403870fd88df4e5e3a892",
-      "chromium": "660c6cce9eb52bcc3784d55ad49eb7e22b0868e0",
-      "dawn": "c8cf7442e43c1088c839eba17117b1ac29bf4e28",
+      "angle": "f6672dbbe223e68396d6dfab11edc342aa435719",
+      "chromium": "31f8248cdd90acbac59f700b603fed0b5967ca50",
+      "dawn": "512c28cc16c40d32973a60b44ae2ffd1ee077195",
       "devtools": "28024a30b41f110dcf0ba28026f9b9bc921f39a1",
       "pdfium": "812acaddb5b581c775d49cd25c9590603a054cd6",
       "skia": "3d4e45907f9b239a54957001d619d2d4a6ca06b4",
@@ -14,18 +14,18 @@
     },
     "milestone": 123,
     "platform": "windows",
-    "previous_version": "123.0.6312.105",
-    "time": 1712254655711,
-    "version": "123.0.6312.106",
-    "date": "2024-4-4"
+    "previous_version": "123.0.6312.107",
+    "time": 1712771660869,
+    "version": "123.0.6312.122",
+    "date": "2024-4-10"
   },
   "mac": {
     "channel": "stable",
     "chromium_main_branch_position": 1262506,
     "hashes": {
-      "angle": "bbf1e1ea6bcf61e5e8e403870fd88df4e5e3a892",
-      "chromium": "afcf075ee57d76d0d437cd985b12fc124a9b348c",
-      "dawn": "c8cf7442e43c1088c839eba17117b1ac29bf4e28",
+      "angle": "f6672dbbe223e68396d6dfab11edc342aa435719",
+      "chromium": "193e0275edab0aee85de8cddcfece9edca73eb9d",
+      "dawn": "512c28cc16c40d32973a60b44ae2ffd1ee077195",
       "devtools": "28024a30b41f110dcf0ba28026f9b9bc921f39a1",
       "pdfium": "812acaddb5b581c775d49cd25c9590603a054cd6",
       "skia": "3d4e45907f9b239a54957001d619d2d4a6ca06b4",
@@ -34,18 +34,18 @@
     },
     "milestone": 123,
     "platform": "mac",
-    "previous_version": "123.0.6312.106",
-    "time": 1712254655683,
-    "version": "123.0.6312.107",
-    "date": "2024-4-4"
+    "previous_version": "123.0.6312.122",
+    "time": 1712771660975,
+    "version": "123.0.6312.123",
+    "date": "2024-4-10"
   },
   "linux": {
     "channel": "stable",
     "chromium_main_branch_position": 1262506,
     "hashes": {
-      "angle": "bbf1e1ea6bcf61e5e8e403870fd88df4e5e3a892",
-      "chromium": "399174dbe6eff0f59de9a6096129c0c827002b3a",
-      "dawn": "c8cf7442e43c1088c839eba17117b1ac29bf4e28",
+      "angle": "f6672dbbe223e68396d6dfab11edc342aa435719",
+      "chromium": "31f8248cdd90acbac59f700b603fed0b5967ca50",
+      "dawn": "512c28cc16c40d32973a60b44ae2ffd1ee077195",
       "devtools": "28024a30b41f110dcf0ba28026f9b9bc921f39a1",
       "pdfium": "812acaddb5b581c775d49cd25c9590603a054cd6",
       "skia": "3d4e45907f9b239a54957001d619d2d4a6ca06b4",
@@ -54,29 +54,29 @@
     },
     "milestone": 123,
     "platform": "linux",
-    "previous_version": "123.0.6312.86",
-    "time": 1712088665857,
-    "version": "123.0.6312.105",
-    "date": "2024-4-2"
+    "previous_version": "123.0.6312.105",
+    "time": 1712771661031,
+    "version": "123.0.6312.122",
+    "date": "2024-4-10"
   },
   "android": {
     "channel": "stable",
     "chromium_main_branch_position": 1262506,
     "hashes": {
-      "angle": "bbf1e1ea6bcf61e5e8e403870fd88df4e5e3a892",
-      "chromium": "03fbddf498224f2bcca36d06c44df0d5f625067e",
-      "dawn": "c8cf7442e43c1088c839eba17117b1ac29bf4e28",
+      "angle": "f6672dbbe223e68396d6dfab11edc342aa435719",
+      "chromium": "d5b1935d6a70f335f8b7fd7b5268c7975b7b91c0",
+      "dawn": "512c28cc16c40d32973a60b44ae2ffd1ee077195",
       "devtools": "28024a30b41f110dcf0ba28026f9b9bc921f39a1",
       "pdfium": "812acaddb5b581c775d49cd25c9590603a054cd6",
       "skia": "3d4e45907f9b239a54957001d619d2d4a6ca06b4",
-      "v8": "e6ade36dda149fb070d67de2b0803bf45c13fe40",
+      "v8": "1191d73c300f38ee2f8177ceae54d81f4d25a025",
       "webrtc": "41b1493ddb5d98e9125d5cb002fd57ce76ebd8a7"
     },
     "milestone": 123,
     "platform": "android",
-    "previous_version": "123.0.6312.81",
-    "time": 1712074570097,
-    "version": "123.0.6312.99",
-    "date": "2024-4-2"
+    "previous_version": "123.0.6312.100",
+    "time": 1712770818803,
+    "version": "123.0.6312.118",
+    "date": "2024-4-10"
   }
 }
