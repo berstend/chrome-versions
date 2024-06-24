@@ -3,80 +3,80 @@
     "channel": "stable",
     "chromium_main_branch_position": 1300313,
     "hashes": {
-      "angle": "117bd54a45ec5f2bea199f6036524a85462743fa",
-      "chromium": "df799988fdc9c52db48650316d53800b1e9aa69e",
-      "dawn": "b44f52d869cb1cbfca7484b109285f99f73983c7",
+      "angle": "5d4df51d1d7d6a290d54111527a4798f10c7ca3c",
+      "chromium": "a435861f0ca363a64f7485619ee5939833823fce",
+      "dawn": "13586d84cb6038b38bf769db815e59d3d152d474",
       "devtools": "c963f0c7472f41d9d4c3335fffdab4f9b8da25bb",
       "pdfium": "f41ce6b71a15ce6206740cad084871a28ff2dcec",
       "skia": "be621ea04206d8fae23952783d1d588d6ce0d9b3",
-      "v8": "2d545208bffa8c280296ad60024a8fccedbf2405",
+      "v8": "1a2f876b6137312f2e4a66af114999580d116c1c",
       "webrtc": "a18e38fed2307edd6382760213fa3ddf199fa181"
     },
     "milestone": 126,
     "platform": "windows",
-    "previous_version": "126.0.6478.62",
-    "time": 1718737569739,
-    "version": "126.0.6478.63",
-    "date": "2024-6-18"
+    "previous_version": "126.0.6478.126",
+    "time": 1719259889966,
+    "version": "126.0.6478.127",
+    "date": "2024-6-24"
   },
   "mac": {
     "channel": "stable",
     "chromium_main_branch_position": 1300313,
     "hashes": {
-      "angle": "117bd54a45ec5f2bea199f6036524a85462743fa",
-      "chromium": "df799988fdc9c52db48650316d53800b1e9aa69e",
-      "dawn": "b44f52d869cb1cbfca7484b109285f99f73983c7",
+      "angle": "5d4df51d1d7d6a290d54111527a4798f10c7ca3c",
+      "chromium": "a435861f0ca363a64f7485619ee5939833823fce",
+      "dawn": "13586d84cb6038b38bf769db815e59d3d152d474",
       "devtools": "c963f0c7472f41d9d4c3335fffdab4f9b8da25bb",
       "pdfium": "f41ce6b71a15ce6206740cad084871a28ff2dcec",
       "skia": "be621ea04206d8fae23952783d1d588d6ce0d9b3",
-      "v8": "2d545208bffa8c280296ad60024a8fccedbf2405",
+      "v8": "1a2f876b6137312f2e4a66af114999580d116c1c",
       "webrtc": "a18e38fed2307edd6382760213fa3ddf199fa181"
     },
     "milestone": 126,
     "platform": "mac",
-    "previous_version": "126.0.6478.62",
-    "time": 1718901758863,
-    "version": "126.0.6478.63",
-    "date": "2024-6-20"
+    "previous_version": "126.0.6478.126",
+    "time": 1719259888619,
+    "version": "126.0.6478.127",
+    "date": "2024-6-24"
   },
   "linux": {
     "channel": "stable",
     "chromium_main_branch_position": 1300313,
     "hashes": {
-      "angle": "117bd54a45ec5f2bea199f6036524a85462743fa",
-      "chromium": "044c187ce79bb8a266c5016ce749387a3480f81f",
-      "dawn": "9c6534f82db39148f29f0bb5e64fdcc7c2a4f372",
+      "angle": "5d4df51d1d7d6a290d54111527a4798f10c7ca3c",
+      "chromium": "d36ace6122e0a59570e258d82441395206d60e1c",
+      "dawn": "13586d84cb6038b38bf769db815e59d3d152d474",
       "devtools": "c963f0c7472f41d9d4c3335fffdab4f9b8da25bb",
       "pdfium": "f41ce6b71a15ce6206740cad084871a28ff2dcec",
       "skia": "be621ea04206d8fae23952783d1d588d6ce0d9b3",
-      "v8": "fa981ae5db3e07d2c41fad0517a5a3a8def6f333",
+      "v8": "1a2f876b6137312f2e4a66af114999580d116c1c",
       "webrtc": "a18e38fed2307edd6382760213fa3ddf199fa181"
     },
     "milestone": 126,
     "platform": "linux",
-    "previous_version": "126.0.6478.61",
-    "time": 1718737561631,
-    "version": "126.0.6478.114",
-    "date": "2024-6-18"
+    "previous_version": "126.0.6478.114",
+    "time": 1719259894747,
+    "version": "126.0.6478.126",
+    "date": "2024-6-24"
   },
   "android": {
     "channel": "stable",
     "chromium_main_branch_position": 1300313,
     "hashes": {
-      "angle": "117bd54a45ec5f2bea199f6036524a85462743fa",
-      "chromium": "2c36911b7f0b4ef3c37c52e3e2e0f942badf2512",
-      "dawn": "b44f52d869cb1cbfca7484b109285f99f73983c7",
+      "angle": "5d4df51d1d7d6a290d54111527a4798f10c7ca3c",
+      "chromium": "ebbe3a565c7696ad1484131f45554736f78da7c6",
+      "dawn": "13586d84cb6038b38bf769db815e59d3d152d474",
       "devtools": "c963f0c7472f41d9d4c3335fffdab4f9b8da25bb",
       "pdfium": "f41ce6b71a15ce6206740cad084871a28ff2dcec",
       "skia": "be621ea04206d8fae23952783d1d588d6ce0d9b3",
-      "v8": "ff49b3c85102e2a3e23b31c31256cf036762817b",
+      "v8": "1a2f876b6137312f2e4a66af114999580d116c1c",
       "webrtc": "a18e38fed2307edd6382760213fa3ddf199fa181"
     },
     "milestone": 126,
     "platform": "android",
-    "previous_version": "126.0.6478.71",
-    "time": 1718742546654,
-    "version": "126.0.6478.72",
-    "date": "2024-6-18"
+    "previous_version": "126.0.6478.111",
+    "time": 1719258014707,
+    "version": "126.0.6478.122",
+    "date": "2024-6-24"
   }
 }
