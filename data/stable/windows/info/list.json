@@ -4,6 +4,66 @@
     "chromium_main_branch_position": 1331488,
     "hashes": {
       "angle": "713102774487cf1a8b3f433529eb8181cbcec31a",
+      "chromium": "d6209c7e65ea9d64ce403e9de18f8915e2f8708a",
+      "dawn": "5f86f5a316f4e082b2419d8b954ebb79c2be590d",
+      "devtools": "47f04a536265028feb1254a3663853e0ce526455",
+      "pdfium": "66c80ddf43e3c3181d404607dcdc0cf37fdf7675",
+      "skia": "938144dd79c6e3664a3c0bbd019daedddf655ffa",
+      "v8": "6f774f929205be0a49cf861b8d73a92655e1dd36",
+      "webrtc": "f237dc146debcfde3d70038c2b66f71bfea8d24b"
+    },
+    "milestone": 128,
+    "platform": "windows",
+    "previous_version": "128.0.6613.137",
+    "time": 1726005300792,
+    "version": "128.0.6613.138",
+    "date": "2024-9-10"
+  },
+  {
+    "channel": "stable",
+    "chromium_main_branch_position": 1331488,
+    "hashes": {
+      "angle": "713102774487cf1a8b3f433529eb8181cbcec31a",
+      "chromium": "fe621c5aa2d6b987e964fb1b5066833da5fb613d",
+      "dawn": "5f86f5a316f4e082b2419d8b954ebb79c2be590d",
+      "devtools": "47f04a536265028feb1254a3663853e0ce526455",
+      "pdfium": "66c80ddf43e3c3181d404607dcdc0cf37fdf7675",
+      "skia": "938144dd79c6e3664a3c0bbd019daedddf655ffa",
+      "v8": "6f774f929205be0a49cf861b8d73a92655e1dd36",
+      "webrtc": "f237dc146debcfde3d70038c2b66f71bfea8d24b"
+    },
+    "milestone": 128,
+    "platform": "windows",
+    "previous_version": "128.0.6613.121",
+    "time": 1726005300792,
+    "version": "128.0.6613.137",
+    "date": "2024-9-10"
+  },
+  {
+    "channel": "stable",
+    "chromium_main_branch_position": 1331488,
+    "hashes": {
+      "angle": "713102774487cf1a8b3f433529eb8181cbcec31a",
+      "chromium": "2e9e7ba97605a89e530154717d55715ed1ee2e10",
+      "dawn": "5f86f5a316f4e082b2419d8b954ebb79c2be590d",
+      "devtools": "47f04a536265028feb1254a3663853e0ce526455",
+      "pdfium": "66c80ddf43e3c3181d404607dcdc0cf37fdf7675",
+      "skia": "8bd493b850f1a75482af8f30cb492cd70645498c",
+      "v8": "12114d5aceeb3b3379b3e1a2140ea1f76dc94ecf",
+      "webrtc": "f237dc146debcfde3d70038c2b66f71bfea8d24b"
+    },
+    "milestone": 128,
+    "platform": "windows",
+    "previous_version": "128.0.6613.120",
+    "time": 1726005300792,
+    "version": "128.0.6613.121",
+    "date": "2024-9-10"
+  },
+  {
+    "channel": "stable",
+    "chromium_main_branch_position": 1331488,
+    "hashes": {
+      "angle": "713102774487cf1a8b3f433529eb8181cbcec31a",
       "chromium": "095705ac6d469e273c0fe064494a53a561381fc8",
       "dawn": "5f86f5a316f4e082b2419d8b954ebb79c2be590d",
       "devtools": "47f04a536265028feb1254a3663853e0ce526455",
@@ -938,65 +998,5 @@
     "time": 1716505209580,
     "version": "125.0.6422.113",
     "date": "2024-5-23"
-  },
-  {
-    "channel": "stable",
-    "chromium_main_branch_position": 1287751,
-    "hashes": {
-      "angle": "4f60fa7020e5357d648a35cc6cdba1213dbf3b6f",
-      "chromium": "e099925e675bbb19c42822548f5175ab03a36a32",
-      "dawn": "bfe28e306e60e986c73adf25cacfc3d246fd1d10",
-      "devtools": "cfd3e473d6bfba7cf8fc7cf6512ca187d5d99ebf",
-      "pdfium": "94407286f475918c68195af1f5e01847b2d6f6ce",
-      "skia": "ec3813eabd24854a1b82457064e9e3031ccc06d7",
-      "v8": "8c46911f080ea752530fb12b4c796e86f9884554",
-      "webrtc": "8505a9838ea91c66c96c173d30cd66f9dbcc7548"
-    },
-    "milestone": 125,
-    "platform": "windows",
-    "previous_version": "125.0.6422.78",
-    "time": 1716505209580,
-    "version": "125.0.6422.112",
-    "date": "2024-5-23"
-  },
-  {
-    "channel": "stable",
-    "chromium_main_branch_position": 1287751,
-    "hashes": {
-      "angle": "4f60fa7020e5357d648a35cc6cdba1213dbf3b6f",
-      "chromium": "ffcd487d15ad92ad0b5766086df5ff354a67a458",
-      "dawn": "bfe28e306e60e986c73adf25cacfc3d246fd1d10",
-      "devtools": "cfd3e473d6bfba7cf8fc7cf6512ca187d5d99ebf",
-      "pdfium": "94407286f475918c68195af1f5e01847b2d6f6ce",
-      "skia": "ec3813eabd24854a1b82457064e9e3031ccc06d7",
-      "v8": "6a1ef22a33a359dd016c6dd3631053fce66f19a2",
-      "webrtc": "8505a9838ea91c66c96c173d30cd66f9dbcc7548"
-    },
-    "milestone": 125,
-    "platform": "windows",
-    "previous_version": "125.0.6422.76",
-    "time": 1716496730685,
-    "version": "125.0.6422.77",
-    "date": "2024-5-23"
-  },
-  {
-    "channel": "stable",
-    "chromium_main_branch_position": 1287751,
-    "hashes": {
-      "angle": "4f60fa7020e5357d648a35cc6cdba1213dbf3b6f",
-      "chromium": "67dcf7562b8fb4ab0819135589e37a97bcc8942c",
-      "dawn": "bfe28e306e60e986c73adf25cacfc3d246fd1d10",
-      "devtools": "cfd3e473d6bfba7cf8fc7cf6512ca187d5d99ebf",
-      "pdfium": "94407286f475918c68195af1f5e01847b2d6f6ce",
-      "skia": "ec3813eabd24854a1b82457064e9e3031ccc06d7",
-      "v8": "6a1ef22a33a359dd016c6dd3631053fce66f19a2",
-      "webrtc": "8505a9838ea91c66c96c173d30cd66f9dbcc7548"
-    },
-    "milestone": 125,
-    "platform": "windows",
-    "previous_version": "125.0.6422.60",
-    "time": 1716318039892,
-    "version": "125.0.6422.76",
-    "date": "2024-5-21"
   }
 ]
