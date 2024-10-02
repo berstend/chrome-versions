@@ -3,18 +3,18 @@
   "chromium_main_branch_position": 1343869,
   "hashes": {
     "angle": "1b71a29fea97c41c4839b0f8a4758ebbd97691c5",
-    "chromium": "df87d5cf12b1397be7495a04cab2db6239b227a8",
+    "chromium": "50211d40761bc6a1a8a6cf5050eb5aaf0a7c67dd",
     "dawn": "5a0f5a4bebf3217f841a101e197dc16fc35707f8",
-    "devtools": "599c9103ad611851ab2eee3804ee80c3d0acca11",
+    "devtools": "e624f35decd08e824cc5c81b4268af675ee5a818",
     "pdfium": "e59b248dc42c129303e24df2d63e5081c86749d7",
     "skia": "dda581d538cb6532cda841444e7b4ceacde01ec9",
-    "v8": "4a1440d89b9d1b437516974ff7d1007c14414164",
+    "v8": "94f30f9e2d9d2df3ea18dbc2b7ff5ae8a673bf8d",
     "webrtc": "21508e08e7545a03c8c35a9299923279e3def319"
   },
   "milestone": 129,
   "platform": "android",
-  "previous_version": "129.0.6668.54",
-  "time": 1727196744158,
-  "version": "129.0.6668.70",
-  "date": "2024-9-24"
+  "previous_version": "129.0.6668.71",
+  "time": 1727817477476,
+  "version": "129.0.6668.81",
+  "date": "2024-10-1"
 }
