@@ -2,10 +2,10 @@
   "channel": "stable",
   "chromium_main_branch_position": 1356013,
   "hashes": {
-    "angle": "21e4b689c009a93f66d61989a713d52bceaf2979",
-    "chromium": "4d304ce63c47778289663b251c8382526640c9a0",
-    "dawn": "b1d26bc8d238d4759b5e62aaaa1f62048f92e254",
-    "devtools": "fdc0ed61fe5d658ba6fb1443ca2aed68701d7d67",
+    "angle": "fffbc739779a2df56a464fd6853bbfb24bebb5f6",
+    "chromium": "ef4f16c57010eb3e047ef101019b869296173bd9",
+    "dawn": "70a01d28c3ecd75b67a87e4643bd4d55fc391ce6",
+    "devtools": "deee9c11c9f76ef595b7d0b52fcf677d25aac5f2",
     "pdfium": "2b675cf15ab4b68bf1ed4e0511ba2479e11f1605",
     "skia": "3c64459d5df2fa9794b277f0959ed8a92552bf4c",
     "v8": "9ae5f73732808d0b574e8efe88fcdbc72850fbd0",
@@ -13,8 +13,8 @@
   },
   "milestone": 130,
   "platform": "mac",
-  "previous_version": "130.0.6723.69",
-  "time": 1729629235239,
-  "version": "130.0.6723.70",
-  "date": "2024-10-22"
+  "previous_version": "130.0.6723.91",
+  "time": 1730227475252,
+  "version": "130.0.6723.92",
+  "date": "2024-10-29"
 }
