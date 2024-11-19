@@ -4,79 +4,79 @@
     "chromium_main_branch_position": 1368529,
     "hashes": {
       "angle": "ac6cda4cbd716102ded6a965f79573b41581898d",
-      "chromium": "92b6e81c7548ac424b567279d200a3f79b50e4bc",
-      "dawn": "cdc5b4dc1ee1482378b545b6c1efa1a234195ab5",
+      "chromium": "ee338c5c68e930761e15c97f5af9d8a082271a88",
+      "dawn": "7e742cac42c29a14ab7f54b134b2f17592711267",
       "devtools": "5284f1c63b2b08c47b8915ce713a1aace991dfe9",
       "pdfium": "7a8409531fbb58d7d15ae331e645977b113d7ced",
       "skia": "94631d9b9a10697325589e1642af63a0137cac94",
-      "v8": "7075674f24f09d3b30913710a31e8793c131000a",
+      "v8": "bd2671b973062afc614b852ec190524b80aaef8a",
       "webrtc": "8445abdf8069cadcbd134369b70d0ebd436ef477"
     },
     "milestone": 131,
     "platform": "windows",
-    "previous_version": "131.0.6778.69",
-    "time": 1731435498602,
-    "version": "131.0.6778.70",
-    "date": "2024-11-12"
+    "previous_version": "131.0.6778.85",
+    "time": 1732038907169,
+    "version": "131.0.6778.86",
+    "date": "2024-11-19"
   },
   "mac": {
     "channel": "stable",
     "chromium_main_branch_position": 1368529,
     "hashes": {
       "angle": "ac6cda4cbd716102ded6a965f79573b41581898d",
-      "chromium": "92b6e81c7548ac424b567279d200a3f79b50e4bc",
-      "dawn": "cdc5b4dc1ee1482378b545b6c1efa1a234195ab5",
+      "chromium": "ee338c5c68e930761e15c97f5af9d8a082271a88",
+      "dawn": "7e742cac42c29a14ab7f54b134b2f17592711267",
       "devtools": "5284f1c63b2b08c47b8915ce713a1aace991dfe9",
       "pdfium": "7a8409531fbb58d7d15ae331e645977b113d7ced",
       "skia": "94631d9b9a10697325589e1642af63a0137cac94",
-      "v8": "7075674f24f09d3b30913710a31e8793c131000a",
+      "v8": "bd2671b973062afc614b852ec190524b80aaef8a",
       "webrtc": "8445abdf8069cadcbd134369b70d0ebd436ef477"
     },
     "milestone": 131,
     "platform": "mac",
-    "previous_version": "131.0.6778.69",
-    "time": 1731435499636,
-    "version": "131.0.6778.70",
-    "date": "2024-11-12"
+    "previous_version": "131.0.6778.85",
+    "time": 1732038907169,
+    "version": "131.0.6778.86",
+    "date": "2024-11-19"
   },
   "linux": {
     "channel": "stable",
     "chromium_main_branch_position": 1368529,
     "hashes": {
       "angle": "ac6cda4cbd716102ded6a965f79573b41581898d",
-      "chromium": "77e2244bbcda3ab9362d5b8aeeb006a86a6d4832",
-      "dawn": "cdc5b4dc1ee1482378b545b6c1efa1a234195ab5",
+      "chromium": "3d81e41b6f3ac8bcae63b32e8145c9eb0cd60a2d",
+      "dawn": "7e742cac42c29a14ab7f54b134b2f17592711267",
       "devtools": "5284f1c63b2b08c47b8915ce713a1aace991dfe9",
       "pdfium": "7a8409531fbb58d7d15ae331e645977b113d7ced",
       "skia": "94631d9b9a10697325589e1642af63a0137cac94",
-      "v8": "7075674f24f09d3b30913710a31e8793c131000a",
+      "v8": "bd2671b973062afc614b852ec190524b80aaef8a",
       "webrtc": "8445abdf8069cadcbd134369b70d0ebd436ef477"
     },
     "milestone": 131,
     "platform": "linux",
-    "previous_version": "130.0.6723.116",
-    "time": 1731435499064,
-    "version": "131.0.6778.69",
-    "date": "2024-11-12"
+    "previous_version": "131.0.6778.69",
+    "time": 1732038907562,
+    "version": "131.0.6778.85",
+    "date": "2024-11-19"
   },
   "android": {
     "channel": "stable",
     "chromium_main_branch_position": 1368529,
     "hashes": {
       "angle": "ac6cda4cbd716102ded6a965f79573b41581898d",
-      "chromium": "5aebdf8b8f8757ae59d6300e090ad359b6a78004",
-      "dawn": "cdc5b4dc1ee1482378b545b6c1efa1a234195ab5",
+      "chromium": "daa4f9357139c7e0c4bbe309aae145779e4181a7",
+      "dawn": "7e742cac42c29a14ab7f54b134b2f17592711267",
       "devtools": "5284f1c63b2b08c47b8915ce713a1aace991dfe9",
       "pdfium": "7a8409531fbb58d7d15ae331e645977b113d7ced",
       "skia": "94631d9b9a10697325589e1642af63a0137cac94",
-      "v8": "fcf75dae2bd527bd58d238736c2165c493fa226b",
-      "webrtc": "4078ddf474ac38188866a282d611861d8fc34860"
+      "v8": "bd2671b973062afc614b852ec190524b80aaef8a",
+      "webrtc": "8445abdf8069cadcbd134369b70d0ebd436ef477"
     },
     "milestone": 131,
     "platform": "android",
-    "previous_version": "130.0.6723.103",
-    "time": 1730933819450,
-    "version": "131.0.6778.39",
-    "date": "2024-11-6"
+    "previous_version": "131.0.6778.40",
+    "time": 1732034839097,
+    "version": "131.0.6778.81",
+    "date": "2024-11-19"
   }
 }
