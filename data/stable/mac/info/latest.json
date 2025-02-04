@@ -3,18 +3,18 @@
   "chromium_main_branch_position": 1402768,
   "hashes": {
     "angle": "8304737811a7851e2bfdcf6f667b68dbac4e962a",
-    "chromium": "74d13a8de4a4b06af27e6ffef8a9180224c5b393",
-    "dawn": "68ff61cfd4c1384a7a305e0c30c608aedaba95d3",
-    "devtools": "ab802a654abfd984eb7222531b4507c7c92218e2",
+    "chromium": "8afbb35a1bb6648f0b2efc81825743a512fa9c48",
+    "dawn": "d4321eef8c5c94107783d903355c1cbbbb8a3776",
+    "devtools": "41deafc3d1ae776a97d8fd1cfb457a06908e3a6d",
     "pdfium": "c674dba647e81805158339785c0c7e3b57643f8c",
-    "skia": "14e83e8c7a1d81e36451a5772027a42fa311e147",
-    "v8": "1a6e67adba714875d213f1c8b021cc801729e94b",
-    "webrtc": "cbe304455fe0ae24622252ef8a0707a555fa5caf"
+    "skia": "ecebe831881cdf52c65df518777210071f7970dd",
+    "v8": "fe051262efbbd92479a08436f733eba9f756e008",
+    "webrtc": "283b6ef9d3eabe5bb3ed7c9d6b6d211a92f9b6d0"
   },
   "milestone": 133,
   "platform": "mac",
-  "previous_version": "132.0.6834.161",
-  "time": 1738183995163,
-  "version": "133.0.6943.35",
-  "date": "2025-1-29"
+  "previous_version": "133.0.6943.53",
+  "time": 1738690814886,
+  "version": "133.0.6943.54",
+  "date": "2025-2-4"
 }
