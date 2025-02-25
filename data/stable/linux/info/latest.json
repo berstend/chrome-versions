@@ -3,18 +3,18 @@
   "chromium_main_branch_position": 1402768,
   "hashes": {
     "angle": "8304737811a7851e2bfdcf6f667b68dbac4e962a",
-    "chromium": "cffa127ce7b6be72885391527c15b452056a2e81",
+    "chromium": "2a5d6da0d6165d7b107502095a937fe7704fcef6",
     "dawn": "d4321eef8c5c94107783d903355c1cbbbb8a3776",
     "devtools": "41deafc3d1ae776a97d8fd1cfb457a06908e3a6d",
     "pdfium": "a6637ded97c46aa4879769b1a6b0f2128e6ea257",
     "skia": "ecebe831881cdf52c65df518777210071f7970dd",
-    "v8": "4e04a09a1a0ef90841656e210e976bfc2a81ed57",
+    "v8": "93c6f1082c25ef7fdf60ee2e4a029d65808d9343",
     "webrtc": "cd3e2951ff0f36fa12bea747862c52533a2b39f3"
   },
   "milestone": 133,
   "platform": "linux",
-  "previous_version": "133.0.6943.98",
-  "time": 1739920576019,
-  "version": "133.0.6943.126",
-  "date": "2025-2-18"
+  "previous_version": "133.0.6943.126",
+  "time": 1740507238410,
+  "version": "133.0.6943.141",
+  "date": "2025-2-25"
 }
