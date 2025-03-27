@@ -1,13 +1,13 @@
 {
   "windows": {
-    "version": "134.0.6998.178",
-    "milestone": 134,
-    "date": "2025-3-25"
+    "version": "135.0.7049.41",
+    "milestone": 135,
+    "date": "2025-3-26"
   },
   "mac": {
-    "version": "134.0.6998.166",
-    "milestone": 134,
-    "date": "2025-3-21"
+    "version": "135.0.7049.41",
+    "milestone": 135,
+    "date": "2025-3-26"
   },
   "linux": {
     "version": "134.0.6998.165",
