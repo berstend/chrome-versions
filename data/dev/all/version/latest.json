@@ -1,22 +1,22 @@
 {
   "windows": {
-    "version": "137.0.7117.2",
-    "milestone": 137,
-    "date": "2025-4-10"
+    "version": "138.0.7180.3",
+    "milestone": 138,
+    "date": "2025-5-19"
   },
   "mac": {
-    "version": "137.0.7117.2",
-    "milestone": 137,
-    "date": "2025-4-10"
+    "version": "138.0.7180.2",
+    "milestone": 138,
+    "date": "2025-5-16"
   },
   "linux": {
-    "version": "137.0.7117.2",
-    "milestone": 137,
-    "date": "2025-4-10"
+    "version": "138.0.7180.2",
+    "milestone": 138,
+    "date": "2025-5-16"
   },
   "android": {
-    "version": "137.0.7117.3",
-    "milestone": 137,
-    "date": "2025-4-10"
+    "version": "138.0.7178.0",
+    "milestone": 138,
+    "date": "2025-5-15"
   }
 }
