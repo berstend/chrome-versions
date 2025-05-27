@@ -3,18 +3,18 @@
   "chromium_main_branch_position": 1453031,
   "hashes": {
     "angle": "df9c59dcacff7d186d00e3263a1aa68f8059137c",
-    "chromium": "ec385701fa11cffe4bb8102fa78cee741f3b774a",
+    "chromium": "fe177c13b8d978f33dd9f0762dfd47660a01b85d",
     "dawn": "fbe707f88ccabca01031e47bf165bd9d499878dd",
-    "devtools": "a2b082f062d36c3941a614fe8899a66dfa005277",
+    "devtools": "a54ed1df191a9e2aff2e9ef453ee6fdc959dd125",
     "pdfium": "c82c611f105c0df064cc8c76363578caf9eafb75",
-    "skia": "5b8860c391f7c3d5b09b62e0d58c45cb6fa814f0",
-    "v8": "003b9d837532294cb2c7e297619584843155024d",
+    "skia": "0dfd95a49aed617f242c8b06dd5b255d1cb07776",
+    "v8": "44fdd9108308773dd3f4fa040de5f4f75edf671f",
     "webrtc": "cec4daea7ed5da94fc38d790bd12694c86865447"
   },
   "milestone": 137,
   "platform": "windows",
-  "previous_version": "137.0.7151.40",
-  "time": 1747839882540,
-  "version": "137.0.7151.41",
-  "date": "2025-5-21"
+  "previous_version": "137.0.7151.55",
+  "time": 1748366256489,
+  "version": "137.0.7151.56",
+  "date": "2025-5-27"
 }

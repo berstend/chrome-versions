@@ -1,18 +1,18 @@
 {
   "windows": {
-    "version": "137.0.7151.41",
+    "version": "137.0.7151.56",
     "milestone": 137,
-    "date": "2025-5-21"
+    "date": "2025-5-27"
   },
   "mac": {
-    "version": "137.0.7151.41",
+    "version": "137.0.7151.56",
     "milestone": 137,
-    "date": "2025-5-21"
+    "date": "2025-5-27"
   },
   "linux": {
-    "version": "136.0.7103.113",
-    "milestone": 136,
-    "date": "2025-5-14"
+    "version": "137.0.7151.55",
+    "milestone": 137,
+    "date": "2025-5-27"
   },
   "android": {
     "version": "137.0.7151.44",
