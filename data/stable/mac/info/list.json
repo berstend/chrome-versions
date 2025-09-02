@@ -4,6 +4,45 @@
     "chromium_main_branch_position": 1496484,
     "hashes": {
       "angle": "cbc4153da8d5796b0fbb3cf288e97bee19436191",
+      "chromium": "670b6f192f4668d2ac2c06bd77ec3e4eeda7d648",
+      "dawn": "8550f9c1ff8859d25cc49bdfacef083cff2c5121",
+      "devtools": "ab96665ae2cfcc054e0243461cfcb56bb016f71a",
+      "pdfium": "1afaa1a380fcd06cec420f3e5b6ec1d2ccb920dc",
+      "skia": "1fdbea293a53b270e3f5e74c92cc6670d68412ff",
+      "v8": "fdb12b460f148895f6af2ff0e0d870ff8889f154",
+      "webrtc": "847fe7905954f3ae883de2936415ff567aa9039b"
+    },
+    "milestone": 140,
+    "platform": "mac",
+    "previous_version": "140.0.7339.41",
+    "time": 1756846849191,
+    "version": "140.0.7339.80",
+    "date": "2025-9-2"
+  },
+  {
+    "channel": "stable",
+    "chromium_main_branch_position": 1477651,
+    "hashes": {
+      "angle": "d9fc4a372074b1079c193c422fc4a180e79b6636",
+      "dawn": "46b4670bc67cb4f6d34f6ce6a46ba7e1d6059abf",
+      "devtools": "bc417052ebef6175721d690a4910e717d92181be",
+      "pdfium": "bbdc38bc2d1693f56154f78eb5d4ff296d8ca3da",
+      "skia": "4abe0638e35d34b6fdb70f1f5ce0f0e1879a021e",
+      "v8": "a0a7886d6b3707be8d4b403e463fa82fdb3f216c",
+      "webrtc": "23d8e44f84822170bee4425760b44237959423e5"
+    },
+    "milestone": 139,
+    "platform": "mac",
+    "previous_version": "139.0.7258.156",
+    "time": 1756846849191,
+    "version": "139.0.7258.157",
+    "date": "2025-9-2"
+  },
+  {
+    "channel": "stable",
+    "chromium_main_branch_position": 1496484,
+    "hashes": {
+      "angle": "cbc4153da8d5796b0fbb3cf288e97bee19436191",
       "chromium": "ad7a45a75341bd4b1918ad98336e3ec6731363ec",
       "dawn": "8550f9c1ff8859d25cc49bdfacef083cff2c5121",
       "devtools": "ab96665ae2cfcc054e0243461cfcb56bb016f71a",
@@ -957,45 +996,5 @@
     "time": 1747839882414,
     "version": "137.0.7151.40",
     "date": "2025-5-21"
-  },
-  {
-    "channel": "stable",
-    "chromium_main_branch_position": 1440670,
-    "hashes": {
-      "angle": "fa40b7c586fd2da9fd7e5c4d893ecb1334553b9e",
-      "chromium": "8eb57f0b66c71bb0370308715a7529d432d3f820",
-      "dawn": "1cffe7ec763900d104e4df62bc96d93f572157cb",
-      "devtools": "4a53cbe7a1270c91ec60903ee792de658453becb",
-      "pdfium": "ca83e69429af8f0bfa34b22dc54f538b9eebf5c5",
-      "skia": "bcce46ca33b67cc302dd53927a63013b8f53bf73",
-      "v8": "5297e56d91816747d539abca52b578e5832135f0",
-      "webrtc": "2c8f5be6924d507ee74191b1aeadcec07f747f21"
-    },
-    "milestone": 136,
-    "platform": "mac",
-    "previous_version": "136.0.7103.114",
-    "time": 1747839882414,
-    "version": "136.0.7103.115",
-    "date": "2025-5-21"
-  },
-  {
-    "channel": "stable",
-    "chromium_main_branch_position": 1440670,
-    "hashes": {
-      "angle": "ecc378cc61109732d174d6542c41fd523c331b13",
-      "chromium": "fa0be0b33debeb378a8e6ad9c599be34e2dc3b37",
-      "dawn": "1cffe7ec763900d104e4df62bc96d93f572157cb",
-      "devtools": "e793e21a020b53a66ae13ef8673f80b8e8a73746",
-      "pdfium": "ca83e69429af8f0bfa34b22dc54f538b9eebf5c5",
-      "skia": "bcce46ca33b67cc302dd53927a63013b8f53bf73",
-      "v8": "b6178615ecae6d84b347cb7a1812cad9afca51f2",
-      "webrtc": "2c8f5be6924d507ee74191b1aeadcec07f747f21"
-    },
-    "milestone": 136,
-    "platform": "mac",
-    "previous_version": "136.0.7103.93",
-    "time": 1747240830727,
-    "version": "136.0.7103.94",
-    "date": "2025-5-14"
   }
 ]
