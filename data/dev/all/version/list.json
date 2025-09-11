@@ -1,6 +1,16 @@
 {
   "windows": [
     {
+      "version": "142.0.7405.4",
+      "milestone": 142,
+      "date": "2025-9-11"
+    },
+    {
+      "version": "142.0.7405.3",
+      "milestone": 142,
+      "date": "2025-9-11"
+    },
+    {
       "version": "142.0.7393.7",
       "milestone": 142,
       "date": "2025-9-8"
@@ -64,19 +74,14 @@
       "version": "140.0.7312.0",
       "milestone": 140,
       "date": "2025-7-24"
-    },
-    {
-      "version": "140.0.7299.0",
-      "milestone": 140,
-      "date": "2025-7-17"
-    },
-    {
-      "version": "140.0.7259.2",
-      "milestone": 140,
-      "date": "2025-6-26"
     }
   ],
   "mac": [
+    {
+      "version": "142.0.7405.0",
+      "milestone": 142,
+      "date": "2025-9-11"
+    },
     {
       "version": "142.0.7393.6",
       "milestone": 142,
@@ -146,14 +151,14 @@
       "version": "138.0.7191.0",
       "milestone": 138,
       "date": "2025-5-22"
-    },
-    {
-      "version": "138.0.7180.2",
-      "milestone": 138,
-      "date": "2025-5-16"
     }
   ],
   "linux": [
+    {
+      "version": "142.0.7405.0",
+      "milestone": 142,
+      "date": "2025-9-11"
+    },
     {
       "version": "142.0.7393.6",
       "milestone": 142,
@@ -223,11 +228,6 @@
       "version": "138.0.7191.0",
       "milestone": 138,
       "date": "2025-5-22"
-    },
-    {
-      "version": "138.0.7180.2",
-      "milestone": 138,
-      "date": "2025-5-16"
     }
   ],
   "android": [
