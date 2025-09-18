@@ -3,41 +3,41 @@
     "channel": "stable",
     "chromium_main_branch_position": 1496484,
     "hashes": {
-      "angle": "cbc4153da8d5796b0fbb3cf288e97bee19436191",
-      "chromium": "bc93617e21c39ed4afa6ce1c08554e5aa76d132d",
-      "dawn": "8550f9c1ff8859d25cc49bdfacef083cff2c5121",
-      "devtools": "ab96665ae2cfcc054e0243461cfcb56bb016f71a",
+      "angle": "a8c8a6febe630c6239a5e207530e9fac651ae373",
+      "chromium": "c643dfff61ee0c447b89c05001216825c74120ff",
+      "dawn": "67be7fddacc4f4bcb21d0cf7bf8bb18752d8fb08",
+      "devtools": "5dbb6f71a9bd613c0403242c7c021652fbf155fd",
       "pdfium": "1afaa1a380fcd06cec420f3e5b6ec1d2ccb920dc",
       "skia": "1fdbea293a53b270e3f5e74c92cc6670d68412ff",
-      "v8": "fdb12b460f148895f6af2ff0e0d870ff8889f154",
-      "webrtc": "847fe7905954f3ae883de2936415ff567aa9039b"
+      "v8": "6d56a0bd0840ce46c80ada63f8c962bd1bb336aa",
+      "webrtc": "36ea4535a500ac137dbf1f577ce40dc1aaa774ef"
     },
     "milestone": 140,
     "platform": "windows",
-    "previous_version": "140.0.7339.81",
-    "time": 1757450969998,
-    "version": "140.0.7339.82",
-    "date": "2025-9-9"
+    "previous_version": "140.0.7339.185",
+    "time": 1758150781360,
+    "version": "140.0.7339.186",
+    "date": "2025-9-17"
   },
   "mac": {
     "channel": "stable",
     "chromium_main_branch_position": 1496484,
     "hashes": {
-      "angle": "cbc4153da8d5796b0fbb3cf288e97bee19436191",
-      "chromium": "bc93617e21c39ed4afa6ce1c08554e5aa76d132d",
-      "dawn": "8550f9c1ff8859d25cc49bdfacef083cff2c5121",
-      "devtools": "ab96665ae2cfcc054e0243461cfcb56bb016f71a",
+      "angle": "a8c8a6febe630c6239a5e207530e9fac651ae373",
+      "chromium": "c643dfff61ee0c447b89c05001216825c74120ff",
+      "dawn": "67be7fddacc4f4bcb21d0cf7bf8bb18752d8fb08",
+      "devtools": "5dbb6f71a9bd613c0403242c7c021652fbf155fd",
       "pdfium": "1afaa1a380fcd06cec420f3e5b6ec1d2ccb920dc",
       "skia": "1fdbea293a53b270e3f5e74c92cc6670d68412ff",
-      "v8": "fdb12b460f148895f6af2ff0e0d870ff8889f154",
-      "webrtc": "847fe7905954f3ae883de2936415ff567aa9039b"
+      "v8": "6d56a0bd0840ce46c80ada63f8c962bd1bb336aa",
+      "webrtc": "36ea4535a500ac137dbf1f577ce40dc1aaa774ef"
     },
     "milestone": 140,
     "platform": "mac",
-    "previous_version": "140.0.7339.81",
-    "time": 1757451197150,
-    "version": "140.0.7339.82",
-    "date": "2025-9-9"
+    "previous_version": "140.0.7339.185",
+    "time": 1758150701686,
+    "version": "140.0.7339.186",
+    "date": "2025-9-17"
   },
   "linux": {
     "channel": "stable",
