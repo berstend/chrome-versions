@@ -3,18 +3,18 @@
   "chromium_main_branch_position": 1536371,
   "hashes": {
     "angle": "2dfb5b7603d09c1d06f9d7a894752431d98b9a3e",
-    "chromium": "71a0dbd6672e2ccb6d1008376cbb7acd315cb8d6",
-    "dawn": "e1ce227ebf75378c5f60a9d531579982bcdd93ee",
+    "chromium": "c1224fc40c96e7f17f0cdeb87a8f4c64b93c0d74",
+    "dawn": "479f62d2194fd6e44c37d07654ca6e41c42bd332",
     "devtools": "e4dd1d1d96b706a33ae7d60237d3cdcd58294e4c",
     "pdfium": "f5c376f93d33709ecd6b0dc8147b14a651ddbfeb",
     "skia": "da51f0d60ea2b14e845a823dc11b405dbeef42d8",
-    "v8": "beee9f5cafde91bbd086077a11db16cb9768e62a",
-    "webrtc": "1788a81407183acc98163a4e1507c5c63fb175cc"
+    "v8": "326f5f8cad3f0e436c8ea8f82a6894936a32e860",
+    "webrtc": "4e31d1a1ff41bb1b79609c83f998458a111a149c"
   },
   "milestone": 143,
   "platform": "linux",
-  "previous_version": "143.0.7499.40",
-  "time": 1765390345007,
-  "version": "143.0.7499.109",
-  "date": "2025-12-10"
+  "previous_version": "143.0.7499.109",
+  "time": 1765912896809,
+  "version": "143.0.7499.146",
+  "date": "2025-12-16"
 }
