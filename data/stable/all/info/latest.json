@@ -4,7 +4,7 @@
     "chromium_main_branch_position": 1536371,
     "hashes": {
       "angle": "2dfb5b7603d09c1d06f9d7a894752431d98b9a3e",
-      "chromium": "6171a3bbaaefc23edb8ee0b8ca5f12deea69a4fb",
+      "chromium": "81613192193ccffe8b499e9ddd97f85f85c3da25",
       "dawn": "479f62d2194fd6e44c37d07654ca6e41c42bd332",
       "devtools": "e4dd1d1d96b706a33ae7d60237d3cdcd58294e4c",
       "pdfium": "f5c376f93d33709ecd6b0dc8147b14a651ddbfeb",
@@ -14,17 +14,17 @@
     },
     "milestone": 143,
     "platform": "windows",
-    "previous_version": "143.0.7499.146",
-    "time": 1765913049285,
-    "version": "143.0.7499.147",
-    "date": "2025-12-16"
+    "previous_version": "143.0.7499.169",
+    "time": 1766088624494,
+    "version": "143.0.7499.170",
+    "date": "2025-12-18"
   },
   "mac": {
     "channel": "stable",
     "chromium_main_branch_position": 1536371,
     "hashes": {
       "angle": "2dfb5b7603d09c1d06f9d7a894752431d98b9a3e",
-      "chromium": "6171a3bbaaefc23edb8ee0b8ca5f12deea69a4fb",
+      "chromium": "81613192193ccffe8b499e9ddd97f85f85c3da25",
       "dawn": "479f62d2194fd6e44c37d07654ca6e41c42bd332",
       "devtools": "e4dd1d1d96b706a33ae7d60237d3cdcd58294e4c",
       "pdfium": "f5c376f93d33709ecd6b0dc8147b14a651ddbfeb",
@@ -34,17 +34,17 @@
     },
     "milestone": 143,
     "platform": "mac",
-    "previous_version": "143.0.7499.146",
-    "time": 1765912947200,
-    "version": "143.0.7499.147",
-    "date": "2025-12-16"
+    "previous_version": "143.0.7499.169",
+    "time": 1766088508275,
+    "version": "143.0.7499.170",
+    "date": "2025-12-18"
   },
   "linux": {
     "channel": "stable",
     "chromium_main_branch_position": 1536371,
     "hashes": {
       "angle": "2dfb5b7603d09c1d06f9d7a894752431d98b9a3e",
-      "chromium": "c1224fc40c96e7f17f0cdeb87a8f4c64b93c0d74",
+      "chromium": "164b20aab62509dad21fd46383951aeec084ad1e",
       "dawn": "479f62d2194fd6e44c37d07654ca6e41c42bd332",
       "devtools": "e4dd1d1d96b706a33ae7d60237d3cdcd58294e4c",
       "pdfium": "f5c376f93d33709ecd6b0dc8147b14a651ddbfeb",
@@ -54,10 +54,10 @@
     },
     "milestone": 143,
     "platform": "linux",
-    "previous_version": "143.0.7499.109",
-    "time": 1765912896809,
-    "version": "143.0.7499.146",
-    "date": "2025-12-16"
+    "previous_version": "143.0.7499.146",
+    "time": 1766088626208,
+    "version": "143.0.7499.169",
+    "date": "2025-12-18"
   },
   "android": {
     "channel": "stable",
