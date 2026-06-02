@@ -10,9 +10,9 @@
     "date": "2026-5-29"
   },
   "linux": {
-    "version": "148.0.7778.215",
-    "milestone": 148,
-    "date": "2026-5-27"
+    "version": "149.0.7827.53",
+    "milestone": 149,
+    "date": "2026-6-2"
   },
   "android": {
     "version": "149.0.7827.48",
