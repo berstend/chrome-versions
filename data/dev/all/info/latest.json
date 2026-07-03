@@ -61,22 +61,22 @@
   },
   "android": {
     "channel": "dev",
-    "chromium_main_branch_position": 1651289,
+    "chromium_main_branch_position": 1655426,
     "hashes": {
-      "angle": "195369f6675eb2c1483fbc5bbc2a5cbe6a7c028e",
-      "chromium": "f7e9ef62ecbf39e71075e8e98a25055adcb61fbf",
-      "dawn": "c8a81731f4a1358633081729c304e7ec15ee7085",
-      "devtools": "168a97d9c507a9d7e1ad54b743b54ef3b63c7027",
-      "pdfium": "f00c4b926b31b15e1810560f02b8ccde81a63c64",
-      "skia": "2ff78efc136aab9ede87270e70f0be57eda688b7",
-      "v8": "8b3ce6dac87d3e99cc85ba2f8e8a5da5e5d82ca3",
-      "webrtc": "25ded3fc778871d2af990abb40d6447c54e9f19e"
+      "angle": "eec0f265a09f94aa406eebda3245c8f69f61c4be",
+      "chromium": "2851778622f7ac3f3698aab62434b8d086274262",
+      "dawn": "35eb1c5bfe83180137a97010ca09038116873128",
+      "devtools": "a2f5e88f2056d073ca845a61dcdff4d43923b761",
+      "pdfium": "53a619295f667480446775baa4c0cc0aa1dc2724",
+      "skia": "bd4ae38ca3bbd3c928270c860ff1b5050e146c90",
+      "v8": "cc7351ef230daedd015d359f447887cdad063c19",
+      "webrtc": "3476959983a90a28999348a1531a8992e3582ddd"
     },
-    "milestone": 151,
+    "milestone": 152,
     "platform": "android",
-    "previous_version": "151.0.7896.3",
-    "time": 1782402358343,
-    "version": "151.0.7910.0",
-    "date": "2026-6-25"
+    "previous_version": "151.0.7910.0",
+    "time": 1783090670413,
+    "version": "152.0.7924.0",
+    "date": "2026-7-3"
   }
 }
