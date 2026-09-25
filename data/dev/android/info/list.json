@@ -1,6 +1,26 @@
 [
   {
     "channel": "dev",
+    "chromium_main_branch_position": 1703574,
+    "hashes": {
+      "angle": "05cb77392246a92ca8dab746f7211e5a68f8e84a",
+      "chromium": "6b96fb3099abff5b5080aa3596e48d7e769c5c08",
+      "dawn": "fbf02008ef624c12e9eaf791a937b8809ffa40ea",
+      "devtools": "3b2b509f281a99cbc140a2d8b60da3d455c7b196",
+      "pdfium": "7dfadb98db46d2d8a6d30d45eea8fd56dfe8c650",
+      "skia": "751f2329a23c276310695a56840f0903eebd0b48",
+      "v8": "565c301da57659b99512826eb4ceb42a45d50199",
+      "webrtc": "10d1c51150cd44e69a909a58efdae42d2e47ad84"
+    },
+    "milestone": 156,
+    "platform": "android",
+    "previous_version": "156.0.8063.0",
+    "time": 1790356320733,
+    "version": "156.0.8072.0",
+    "date": "2026-9-25"
+  },
+  {
+    "channel": "dev",
     "chromium_main_branch_position": 1699061,
     "hashes": {
       "angle": "94e010815a2c80b96d2a80d252b2138f6729847f",
@@ -978,25 +998,5 @@
     "time": 1761832800000,
     "version": "144.0.7500.8",
     "date": "2025-10-30"
-  },
-  {
-    "channel": "dev",
-    "chromium_main_branch_position": 1533289,
-    "hashes": {
-      "angle": "c0ee588f76b4d8e6ab66748333a486ae5f6efa50",
-      "chromium": "84affc36f2782fc20f60f8c3a36e90abe9a4c573",
-      "dawn": "86a61917d0bf3986c120753c9587e185983c2964",
-      "devtools": "4615e20bdcf22b94533fbfe6f4c9e63425a5d206",
-      "pdfium": "7a0db5a38a5013ae7865612493e04715739f1ebf",
-      "skia": "9a43169d5cadb5c3a56e78c6d19ca71b51097e5e",
-      "v8": "aa9833a0d21a8a40b5593b628f7382e9d0eeb700",
-      "webrtc": "35f6d781c2fc5cc3c7d374ef66f90107780f8d21"
-    },
-    "milestone": 143,
-    "platform": "android",
-    "previous_version": "143.0.7473.2",
-    "time": 1761223578472,
-    "version": "143.0.7487.2",
-    "date": "2025-10-23"
   }
 ]
