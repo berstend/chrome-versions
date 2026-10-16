@@ -1,6 +1,11 @@
 {
   "windows": [
     {
+      "version": "158.0.8106.0",
+      "milestone": 158,
+      "date": "2026-10-16"
+    },
+    {
       "version": "157.0.8092.0",
       "milestone": 157,
       "date": "2026-10-9"
@@ -69,15 +74,15 @@
       "version": "152.0.7939.3",
       "milestone": 152,
       "date": "2026-7-10"
-    },
-    {
-      "version": "152.0.7928.2",
-      "milestone": 152,
-      "date": "2026-7-6"
     }
   ],
   "mac": [
     {
+      "version": "158.0.8106.0",
+      "milestone": 158,
+      "date": "2026-10-16"
+    },
+    {
       "version": "157.0.8092.0",
       "milestone": 157,
       "date": "2026-10-9"
@@ -146,14 +151,14 @@
       "version": "152.0.7939.3",
       "milestone": 152,
       "date": "2026-7-10"
-    },
-    {
-      "version": "152.0.7928.2",
-      "milestone": 152,
-      "date": "2026-7-6"
     }
   ],
   "linux": [
+    {
+      "version": "158.0.8106.0",
+      "milestone": 158,
+      "date": "2026-10-16"
+    },
     {
       "version": "157.0.8092.0",
       "milestone": 157,
@@ -223,14 +228,14 @@
       "version": "152.0.7939.5",
       "milestone": 152,
       "date": "2026-7-14"
-    },
-    {
-      "version": "152.0.7928.2",
-      "milestone": 152,
-      "date": "2026-7-6"
     }
   ],
   "android": [
+    {
+      "version": "158.0.8106.0",
+      "milestone": 158,
+      "date": "2026-10-16"
+    },
     {
       "version": "157.0.8092.0",
       "milestone": 157,
@@ -300,11 +305,6 @@
       "version": "152.0.7951.0",
       "milestone": 152,
       "date": "2026-7-16"
-    },
-    {
-      "version": "152.0.7940.2",
-      "milestone": 152,
-      "date": "2026-7-10"
     }
   ]
 }
