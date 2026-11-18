@@ -3,7 +3,7 @@
   "chromium_main_branch_position": 1727472,
   "hashes": {
     "angle": "1f6526a566c27c7c33aa73a78517450a4a2a1714",
-    "chromium": "14d6f648e8cd7ad750a4044200ce94d3321be260",
+    "chromium": "52bdd21723d5db0c9ab11716d38feac74828cf84",
     "dawn": "6e24542436a3ef58d4a1110f01712da9afbff3e3",
     "devtools": "047c90eca37c7170d826d72245d5df9281989cf3",
     "pdfium": "b23fee3ac22360878efaa8aa533dac892fe777ab",
@@ -13,8 +13,8 @@
   },
   "milestone": 158,
   "platform": "android",
-  "previous_version": "158.0.8127.22",
-  "time": 1794513279737,
-  "version": "158.0.8127.36",
-  "date": "2026-11-12"
+  "previous_version": "158.0.8127.36",
+  "time": 1794944506863,
+  "version": "158.0.8127.42",
+  "date": "2026-11-17"
 }

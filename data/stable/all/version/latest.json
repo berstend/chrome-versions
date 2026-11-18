@@ -10,13 +10,13 @@
     "date": "2026-11-12"
   },
   "linux": {
-    "version": "157.0.8103.78",
-    "milestone": 157,
-    "date": "2026-11-11"
-  },
-  "android": {
     "version": "158.0.8127.36",
     "milestone": 158,
-    "date": "2026-11-12"
+    "date": "2026-11-17"
+  },
+  "android": {
+    "version": "158.0.8127.42",
+    "milestone": 158,
+    "date": "2026-11-17"
   }
 }
